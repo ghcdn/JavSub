@@ -1,0 +1,525 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Default Aegisub file
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.15,0:00:13.15,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}黑木亜丽莎
+Dialogue: 0,0:00:13.17,0:00:17.16,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}isrts.blogspot.com
+Dialogue: 0,0:00:17.19,0:00:18.09,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}请吧
+Dialogue: 0,0:00:19.27,0:00:20.54,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}谢谢了
+Dialogue: 0,0:00:26.67,0:00:29.23,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这是我的儿媳妇亜丽莎
+Dialogue: 0,0:00:31.33,0:00:34.43,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}她嫁到我们家将近半年了
+Dialogue: 0,0:00:35.74,0:00:39.25,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}她这麽漂亮 嫁给我儿子 真是可惜
+Dialogue: 0,0:00:41.16,0:00:42.15,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}一路顺风
+Dialogue: 0,0:00:42.17,0:00:42.83,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我走了
+Dialogue: 0,0:01:06.18,0:01:07.59,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}三年前
+Dialogue: 0,0:01:07.92,0:01:10.87,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我从工作了七年的公司退休了
+Dialogue: 0,0:01:13.81,0:01:19.24,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}妻子也先我一步 去了天国
+Dialogue: 0,0:01:20.58,0:01:26.64,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我很感激她们夫妇来照顾我
+Dialogue: 0,0:01:27.81,0:01:34.56,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}也让我知道了活着的乐趣
+Dialogue: 0,0:01:35.05,0:01:39.05,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}被公公冒犯的巨乳少妇
+Dialogue: 0,0:02:40.85,0:02:42.40,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}有什么事吗 公公
+Dialogue: 0,0:02:42.63,0:02:43.31,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}没什麽
+Dialogue: 0,0:02:44.89,0:02:47.36,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}今天天气真好啊
+Dialogue: 0,0:02:48.43,0:02:49.71,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}是啊
+Dialogue: 0,0:02:52.23,0:02:53.89,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我还是去散步吧
+Dialogue: 0,0:02:55.82,0:02:57.03,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}那慢点哦
+Dialogue: 0,0:03:19.23,0:03:20.47,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}什麽 要出差啊
+Dialogue: 0,0:03:21.07,0:03:21.69,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}嗯
+Dialogue: 0,0:03:22.20,0:03:25.84,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}那边的事情还没弄完
+Dialogue: 0,0:03:28.02,0:03:29.45,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}是很久的事情了
+Dialogue: 0,0:03:30.42,0:03:32.18,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}可能会出差很久
+Dialogue: 0,0:03:33.37,0:03:34.28,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}多久呢
+Dialogue: 0,0:03:36.19,0:03:37.41,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}一周左右吧
+Dialogue: 0,0:03:43.96,0:03:45.06,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我也没办法
+Dialogue: 0,0:03:45.24,0:03:46.33,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这是工作啊
+Dialogue: 0,0:03:49.15,0:03:49.95,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}生气了吗
+Dialogue: 0,0:03:50.53,0:03:51.25,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不知道
+Dialogue: 0,0:03:57.60,0:03:59.36,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}爸爸该睡了吧
+Dialogue: 0,0:04:00.80,0:04:01.36,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,0:04:02.30,0:04:05.24,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}估计爸爸睡着了
+Dialogue: 0,0:04:47.03,0:04:49.29,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}别出声 会被爸爸听到的
+Dialogue: 0,0:05:52.34,0:05:53.00,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽啊
+Dialogue: 0,0:06:04.70,0:06:05.80,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}老公 爽吗
+Dialogue: 0,0:06:06.72,0:06:07.35,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽啊
+Dialogue: 0,0:06:09.43,0:06:10.40,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好热啊
+Dialogue: 0,0:06:29.89,0:06:30.54,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好舒服
+Dialogue: 0,0:06:35.85,0:06:36.64,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}要射了
+Dialogue: 0,0:06:38.80,0:06:39.85,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}可以射了吗
+Dialogue: 0,0:06:40.24,0:06:40.81,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}射吧
+Dialogue: 0,0:06:43.98,0:06:44.57,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}要射了
+Dialogue: 0,0:08:07.63,0:08:10.63,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}儿子广志出差一周过去了
+Dialogue: 0,0:08:14.01,0:08:15.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不知道工作怎么样了
+Dialogue: 0,0:08:16.95,0:08:18.16,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}但是还没回来
+Dialogue: 0,0:08:30.32,0:08:34.38,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}家里就只剩下我和儿媳妇两个人了
+Dialogue: 0,0:08:38.09,0:08:40.59,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}每天都是这样
+Dialogue: 0,0:09:03.00,0:09:06.80,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}也没有什麽事情发生
+Dialogue: 0,0:09:09.73,0:09:12.79,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}或许应该是这样吧
+Dialogue: 0,0:09:20.88,0:09:22.42,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}到底会发生什么事情呢
+Dialogue: 0,0:10:19.31,0:10:19.99,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}公公
+Dialogue: 0,0:10:20.84,0:10:22.10,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}喝茶吗
+Dialogue: 0,0:10:28.64,0:10:29.89,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}有什么事吗
+Dialogue: 0,0:10:37.91,0:10:38.82,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}怎么了呢
+Dialogue: 0,0:10:49.93,0:10:51.02,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}公公 你怎么了
+Dialogue: 0,0:10:58.38,0:10:59.53,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你要干什么呢
+Dialogue: 0,0:11:03.81,0:11:04.90,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}放开我
+Dialogue: 0,0:11:14.53,0:11:15.71,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要这样
+Dialogue: 0,0:11:36.44,0:11:37.94,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}真香啊
+Dialogue: 0,0:11:41.42,0:11:44.69,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好久没闻到这种香味了
+Dialogue: 0,0:11:49.99,0:11:50.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要这样
+Dialogue: 0,0:11:56.11,0:11:58.96,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这样不是很好吗
+Dialogue: 0,0:12:00.70,0:12:01.84,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}放开我吧
+Dialogue: 0,0:12:02.25,0:12:03.01,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}公公
+Dialogue: 0,0:12:11.75,0:12:13.36,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好香啊
+Dialogue: 0,0:12:16.65,0:12:18.54,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}皮肤好滑啊
+Dialogue: 0,0:12:27.83,0:12:29.47,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好美啊
+Dialogue: 0,0:12:35.35,0:12:36.35,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}转过来
+Dialogue: 0,0:12:36.71,0:12:37.50,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我看看
+Dialogue: 0,0:12:38.29,0:12:39.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:12:45.65,0:12:47.77,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我闻闻
+Dialogue: 0,0:12:48.78,0:12:49.69,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要这样
+Dialogue: 0,0:12:50.29,0:12:51.14,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}公公
+Dialogue: 0,0:12:51.69,0:12:52.61,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}饶了我吧
+Dialogue: 0,0:12:56.39,0:12:57.20,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要跑
+Dialogue: 0,0:12:59.05,0:12:59.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,0:13:02.39,0:13:04.25,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}真香啊
+Dialogue: 0,0:13:06.43,0:13:07.00,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:13:08.43,0:13:09.40,Default,,0,0,0,,
+Dialogue: 0,0:13:16.11,0:13:17.81,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看吧 好美啊
+Dialogue: 0,0:13:20.47,0:13:22.62,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我好好看看吧
+Dialogue: 0,0:13:24.75,0:13:25.74,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}住手
+Dialogue: 0,0:13:26.07,0:13:27.18,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我看看这里
+Dialogue: 0,0:13:31.40,0:13:33.04,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}公公 不要这样
+Dialogue: 0,0:13:42.82,0:13:43.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,0:14:15.54,0:14:16.36,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好棒啊
+Dialogue: 0,0:14:26.46,0:14:28.06,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}还有这里
+Dialogue: 0,0:14:40.72,0:14:42.51,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}放手吧
+Dialogue: 0,0:14:43.40,0:14:45.22,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我想看看这里
+Dialogue: 0,0:14:45.70,0:14:46.36,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:14:50.66,0:14:51.84,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这样来吧
+Dialogue: 0,0:14:51.86,0:14:52.49,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:14:57.48,0:15:04.78,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我一直都想看的
+Dialogue: 0,0:15:06.00,0:15:06.80,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}住手吧
+Dialogue: 0,0:15:43.52,0:15:44.25,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,0:15:48.24,0:15:51.13,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我可不想住手 来吧
+Dialogue: 0,0:15:59.06,0:16:00.29,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,0:16:00.39,0:16:01.48,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要这样
+Dialogue: 0,0:16:01.58,0:16:02.70,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}露出来了
+Dialogue: 0,0:16:13.14,0:16:14.78,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看到了
+Dialogue: 0,0:16:16.71,0:16:19.77,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我看到这里了
+Dialogue: 0,0:16:23.01,0:16:23.69,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}住手
+Dialogue: 0,0:16:24.25,0:16:25.22,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}为什么呢
+Dialogue: 0,0:16:28.17,0:16:30.15,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我很想这样 为什么要住手呢
+Dialogue: 0,0:16:33.20,0:16:34.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}公公 饶了我吧
+Dialogue: 0,0:16:46.90,0:16:47.53,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:16:52.58,0:16:56.70,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这麽诱人的淫水
+Dialogue: 0,0:17:00.61,0:17:03.98,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}过来吧 来吧
+Dialogue: 0,0:17:05.01,0:17:05.74,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}住手
+Dialogue: 0,0:17:05.92,0:17:06.83,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我要摸胸部
+Dialogue: 0,0:17:19.12,0:17:20.06,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,0:17:30.38,0:17:31.24,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}听着
+Dialogue: 0,0:17:31.71,0:17:33.16,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不想被施暴吧
+Dialogue: 0,0:17:42.27,0:17:43.74,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}那就放松点
+Dialogue: 0,0:17:46.47,0:17:47.26,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}叉开吧
+Dialogue: 0,0:17:50.80,0:17:51.44,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:17:52.49,0:17:54.02,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}叉开让我看到了吧
+Dialogue: 0,0:17:57.58,0:17:58.22,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:18:14.30,0:18:15.39,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}住手
+Dialogue: 0,0:18:16.19,0:18:17.36,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}饶了我吧
+Dialogue: 0,0:18:23.95,0:18:25.13,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}都这样了
+Dialogue: 0,0:18:26.87,0:18:29.61,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}下面也很湿了
+Dialogue: 0,0:18:31.29,0:18:32.41,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}湿了吧
+Dialogue: 0,0:18:36.09,0:18:37.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}住手
+Dialogue: 0,0:18:41.99,0:18:43.22,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好软啊
+Dialogue: 0,0:18:51.10,0:18:53.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}公公 饶了我吧
+Dialogue: 0,0:19:12.19,0:19:13.26,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很爽吧
+Dialogue: 0,0:19:20.85,0:19:27.26,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很像这样的吧 很寂寞的吧
+Dialogue: 0,0:19:29.02,0:19:30.09,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}寂寞是吧
+Dialogue: 0,0:19:35.40,0:19:36.55,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我忍不住了
+Dialogue: 0,0:19:46.17,0:19:46.86,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}起来
+Dialogue: 0,0:19:48.60,0:19:49.27,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}过来
+Dialogue: 0,0:20:07.19,0:20:10.73,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好湿啊 好多水啊
+Dialogue: 0,0:20:18.72,0:20:20.88,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我好好看看
+Dialogue: 0,0:20:26.42,0:20:27.23,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:21:08.33,0:21:09.96,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我一直都想这样的
+Dialogue: 0,0:21:13.14,0:21:14.77,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我忍了好久了
+Dialogue: 0,0:21:15.77,0:21:16.46,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很久了
+Dialogue: 0,0:21:23.76,0:21:24.40,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:21:26.08,0:21:27.05,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}怎么了呢
+Dialogue: 0,0:21:31.70,0:21:33.21,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我好想看这里啊
+Dialogue: 0,0:21:41.40,0:21:42.86,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}饶了我吧
+Dialogue: 0,0:21:47.94,0:21:48.50,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:21:51.31,0:21:52.01,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}住手
+Dialogue: 0,0:21:55.50,0:21:57.19,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我一直都好想啊
+Dialogue: 0,0:22:00.74,0:22:01.44,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:22:04.85,0:22:09.29,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧 我们一起爽爽吧
+Dialogue: 0,0:22:10.41,0:22:11.44,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来爽爽吧
+Dialogue: 0,0:22:16.24,0:22:21.17,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我来给你舔舔这里
+Dialogue: 0,0:22:34.39,0:22:37.03,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧 让我插进去吧
+Dialogue: 0,0:22:38.50,0:22:39.34,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要啊
+Dialogue: 0,0:22:41.43,0:22:42.26,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}进去了
+Dialogue: 0,0:22:42.64,0:22:43.47,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}住手
+Dialogue: 0,0:22:45.87,0:22:47.03,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}都进去了
+Dialogue: 0,0:22:48.54,0:22:49.55,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}进去了
+Dialogue: 0,0:22:55.99,0:22:56.74,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}进去了
+Dialogue: 0,0:22:58.29,0:22:59.55,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我插进去了
+Dialogue: 0,0:23:00.92,0:23:02.31,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽啊
+Dialogue: 0,0:23:05.93,0:23:10.26,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我一直都想这样的
+Dialogue: 0,0:23:21.42,0:23:22.34,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看看吧
+Dialogue: 0,0:23:27.16,0:23:27.88,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}舒服啊
+Dialogue: 0,0:23:30.00,0:23:31.00,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}太舒服了
+Dialogue: 0,0:23:49.70,0:23:51.01,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好滑啊
+Dialogue: 0,0:23:56.71,0:23:57.39,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要啊
+Dialogue: 0,0:24:01.21,0:24:01.96,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很爽吧
+Dialogue: 0,0:24:05.17,0:24:10.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧  这样不是很爽吗
+Dialogue: 0,0:24:12.75,0:24:14.55,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}反正都插进去了
+Dialogue: 0,0:24:16.02,0:24:16.60,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:24:18.20,0:24:19.43,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这样感觉如何呢
+Dialogue: 0,0:24:30.89,0:24:31.90,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽
+Dialogue: 0,0:24:33.35,0:24:34.62,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}里面都在动了
+Dialogue: 0,0:24:39.80,0:24:41.19,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧  叉开点
+Dialogue: 0,0:24:45.41,0:24:45.98,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:24:49.96,0:24:51.53,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}饶了我吧
+Dialogue: 0,0:24:53.36,0:25:00.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我不会停的 太爽了
+Dialogue: 0,0:25:01.54,0:25:03.07,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}骑上来吧
+Dialogue: 0,0:25:07.87,0:25:08.42,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:25:30.24,0:25:32.76,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好美的屁股
+Dialogue: 0,0:25:33.54,0:25:35.19,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好棒的身材. . .
+Dialogue: 0,0:25:35.62,0:25:38.02,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}胸部也这麽美
+Dialogue: 0,0:25:40.19,0:25:42.06,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}真是太美了
+Dialogue: 0,0:26:06.04,0:26:06.68,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:26:15.49,0:26:17.60,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很爽吧
+Dialogue: 0,0:26:21.11,0:26:22.44,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}继续来吧
+Dialogue: 0,0:26:25.49,0:26:26.73,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}饶了我吧
+Dialogue: 0,0:26:35.53,0:26:36.27,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好舒服
+Dialogue: 0,0:26:39.94,0:26:42.99,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}继续来 再爽爽吧
+Dialogue: 0,0:26:44.82,0:26:46.21,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}一会就会高潮的
+Dialogue: 0,0:26:49.18,0:26:51.78,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}小穴这麽湿 太爽了
+Dialogue: 0,0:26:52.35,0:26:55.40,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你不要忍着了
+Dialogue: 0,0:26:57.90,0:27:00.07,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}小穴都这麽湿了
+Dialogue: 0,0:27:08.85,0:27:09.71,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:27:30.97,0:27:31.79,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好棒啊
+Dialogue: 0,0:27:46.72,0:27:47.35,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:28:13.41,0:28:14.32,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽啊
+Dialogue: 0,0:28:19.46,0:28:22.98,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}真美啊 舒服吧
+Dialogue: 0,0:28:26.15,0:28:27.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就这样
+Dialogue: 0,0:28:27.11,0:28:27.78,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:28:35.07,0:28:36.18,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}饶了我吧
+Dialogue: 0,0:28:37.94,0:28:39.14,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}小穴好湿啊
+Dialogue: 0,0:28:43.16,0:28:43.80,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽
+Dialogue: 0,0:28:49.31,0:28:52.61,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}听到了吧 什麽声音呢
+Dialogue: 0,0:29:06.97,0:29:07.61,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,0:29:10.40,0:29:11.22,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}过来
+Dialogue: 0,0:29:24.98,0:29:26.15,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧  张开点
+Dialogue: 0,0:29:38.81,0:29:40.18,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}插进去了吧
+Dialogue: 0,0:30:06.03,0:30:06.53,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}爽啊
+Dialogue: 0,0:30:15.73,0:30:16.61,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽
+Dialogue: 0,0:30:17.66,0:30:18.47,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}太舒服了
+Dialogue: 0,0:30:23.48,0:30:25.99,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}怎麽样呢 过来点
+Dialogue: 0,0:30:28.78,0:30:29.94,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}过来点
+Dialogue: 0,0:30:30.83,0:30:31.73,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,0:30:37.56,0:30:38.89,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这样来
+Dialogue: 0,0:30:40.93,0:30:42.64,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很舒服吧
+Dialogue: 0,0:30:52.79,0:30:54.54,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很喜欢这样的吧
+Dialogue: 0,0:31:15.82,0:31:17.84,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}插得好爽啊
+Dialogue: 0,0:31:27.00,0:31:27.88,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好舒服啊
+Dialogue: 0,0:31:32.25,0:31:33.45,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}里面 好湿啊
+Dialogue: 0,0:31:52.04,0:31:53.22,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很舒服吧
+Dialogue: 0,0:31:54.11,0:31:56.19,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我可是很爽啊
+Dialogue: 0,0:32:41.81,0:32:43.76,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}放松点 不要用力
+Dialogue: 0,0:32:47.17,0:32:48.16,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}转过来把
+Dialogue: 0,0:32:50.90,0:32:51.85,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,0:32:55.19,0:32:56.59,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}再来吧
+Dialogue: 0,0:33:14.05,0:33:14.79,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就是这里
+Dialogue: 0,0:33:48.78,0:33:50.02,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好多水啊
+Dialogue: 0,0:34:16.66,0:34:17.29,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}舒服
+Dialogue: 0,0:34:29.85,0:34:30.67,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽啊
+Dialogue: 0,0:34:34.97,0:34:36.17,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我要射了
+Dialogue: 0,0:34:36.41,0:34:37.17,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,0:34:37.87,0:34:39.35,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我不行了
+Dialogue: 0,0:36:22.36,0:36:23.95,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}终于成功了
+Dialogue: 0,0:36:24.89,0:36:27.89,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你也憋了很久了吧
+Dialogue: 0,0:36:30.60,0:36:32.89,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}没事的
+Dialogue: 0,0:36:34.04,0:36:38.71,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}只要你不说 没人会知道
+Dialogue: 0,0:36:40.09,0:36:43.61,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你也喜欢这样的吧
+Dialogue: 0,0:37:12.31,0:37:13.09,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}早上好
+Dialogue: 0,0:37:13.62,0:37:14.36,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}早啊
+Dialogue: 0,0:37:14.62,0:37:15.31,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}儿子你早啊
+Dialogue: 0,0:37:17.70,0:37:19.14,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}出差这么久啊
+Dialogue: 0,0:37:20.18,0:37:22.67,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}那边事情没弄好
+Dialogue: 0,0:37:23.20,0:37:25.80,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}花了点时间
+Dialogue: 0,0:37:27.32,0:37:28.95,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}工作是要优先做完啊
+Dialogue: 0,0:37:29.55,0:37:30.33,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就是
+Dialogue: 0,0:37:32.55,0:37:33.36,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}完了就好
+Dialogue: 0,0:37:33.38,0:37:34.09,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}是的
+Dialogue: 0,0:37:39.23,0:37:39.94,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}真好吃
+Dialogue: 0,0:37:43.10,0:37:45.40,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}工作都不太顺利是吧
+Dialogue: 0,0:37:45.63,0:37:48.41,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}是的 下次还要去
+Dialogue: 0,0:37:51.30,0:37:56.09,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你出差这么久 可苦了亜丽莎了
+Dialogue: 0,0:37:56.82,0:37:59.25,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不好意思了 工作嘛
+Dialogue: 0,0:37:59.29,0:38:00.94,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}对了 爸爸喜欢打保龄球吧
+Dialogue: 0,0:38:01.61,0:38:03.77,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}是的
+Dialogue: 0,0:38:04.13,0:38:08.65,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不过很久没打了
+Dialogue: 0,0:38:14.34,0:38:16.80,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}小学时候就开始打了
+Dialogue: 0,0:38:17.71,0:38:19.40,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}那是打了很久了啊
+Dialogue: 0,0:38:20.50,0:38:25.44,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}其实比起保龄球 我更擅长老人球
+Dialogue: 0,0:38:25.88,0:38:26.64,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}是吗
+Dialogue: 0,0:38:27.83,0:38:33.58,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}跟现在的不一样 是什么样的呢
+Dialogue: 0,0:38:33.65,0:38:34.49,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}是四个球
+Dialogue: 0,0:38:34.73,0:38:35.98,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}四个球吗
+Dialogue: 0,0:38:36.08,0:38:39.14,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}有两个红球 两个黑球
+Dialogue: 0,0:38:39.64,0:38:40.87,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}怎么玩的呢
+Dialogue: 0,0:38:43.43,0:38:45.12,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}是算分数的
+Dialogue: 0,0:38:46.94,0:38:48.56,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我憋不住了
+Dialogue: 0,0:38:49.76,0:38:50.82,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}去趟厕所
+Dialogue: 0,0:38:57.35,0:39:01.07,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}要忍住 不然会被看出来
+Dialogue: 0,0:39:02.33,0:39:03.72,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}被他知道了怎麽办呢
+Dialogue: 0,0:39:28.96,0:39:29.73,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}张开点
+Dialogue: 0,0:39:51.54,0:39:54.51,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}又想了 来吧
+Dialogue: 0,0:40:51.95,0:40:52.82,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}老公
+Dialogue: 0,0:40:53.59,0:40:54.18,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}怎么了
+Dialogue: 0,0:40:54.94,0:40:56.65,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}今天会早点回来吗
+Dialogue: 0,0:40:58.10,0:41:01.10,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}今天要晚点 工作很忙的
+Dialogue: 0,0:41:02.13,0:41:02.92,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这样啊
+Dialogue: 0,0:41:09.36,0:41:10.23,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}怎么了呢
+Dialogue: 0,0:41:13.89,0:41:14.75,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}没什麽
+Dialogue: 0,0:41:21.03,0:41:21.88,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}慢点走哦
+Dialogue: 0,0:41:22.48,0:41:23.24,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我走了
+Dialogue: 0,0:41:48.81,0:41:50.57,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}广志出去了啊
+Dialogue: 0,0:41:54.94,0:41:58.61,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你可千万不能跟他说哦
+Dialogue: 0,0:42:03.46,0:42:04.17,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看吧
+Dialogue: 0,0:42:09.21,0:42:13.05,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}刚刚在他面前你都那麽湿了
+Dialogue: 0,0:42:14.12,0:42:16.38,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我也这麽兴奋了
+Dialogue: 0,0:42:29.23,0:42:31.75,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}再让我爽爽吧
+Dialogue: 0,0:42:37.42,0:42:39.30,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}可以的吧
+Dialogue: 0,0:43:02.29,0:43:04.45,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来让我爽爽吧
+Dialogue: 0,0:43:08.77,0:43:09.72,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}坐下吧
+Dialogue: 0,0:43:14.44,0:43:15.98,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来含着
+Dialogue: 0,0:43:19.54,0:43:20.26,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,0:43:22.58,0:43:23.94,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}快点来吧
+Dialogue: 0,0:43:30.52,0:43:35.09,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好啦 乖乖的舔舔吧
+Dialogue: 0,0:43:39.90,0:43:40.87,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}张开嘴
+Dialogue: 0,0:43:43.21,0:43:43.98,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,0:43:52.89,0:43:56.24,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你跟我儿子这样做了吗
+Dialogue: 0,0:44:03.01,0:44:04.68,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好好地含着
+Dialogue: 0,0:44:06.24,0:44:07.93,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}用力要合适
+Dialogue: 0,0:44:11.99,0:44:15.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}用舌头让我好好爽爽吧
+Dialogue: 0,0:44:33.80,0:44:36.85,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}过来
+Dialogue: 0,0:44:37.62,0:44:39.31,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}自己来舔
+Dialogue: 0,0:44:50.11,0:44:54.71,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}慢慢地插到喉咙深处
+Dialogue: 0,0:44:58.38,0:44:59.82,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}怎么了呢
+Dialogue: 0,0:45:00.80,0:45:03.04,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}要好好地舔
+Dialogue: 0,0:45:07.21,0:45:08.14,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}再来
+Dialogue: 0,0:45:15.64,0:45:19.88,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我好想爽爽啊
+Dialogue: 0,0:45:24.52,0:45:25.28,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,0:45:28.32,0:45:30.81,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我们一起爽吧
+Dialogue: 0,0:45:57.53,0:45:59.67,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我看看这里
+Dialogue: 0,0:46:01.46,0:46:02.94,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}怎么了 不要停
+Dialogue: 0,0:46:03.90,0:46:05.13,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}继续来
+Dialogue: 0,0:46:44.71,0:46:45.55,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,0:46:47.35,0:46:49.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这样来揉揉
+Dialogue: 0,0:46:56.30,0:46:58.07,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来给我乳交吧
+Dialogue: 0,0:47:06.35,0:47:07.15,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}舒服
+Dialogue: 0,0:47:12.85,0:47:15.83,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}跟我儿子也这样做过吧
+Dialogue: 0,0:47:17.98,0:47:21.63,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}也要好好地跟我做哦
+Dialogue: 0,0:47:59.04,0:48:00.92,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}乳头好美啊
+Dialogue: 0,0:48:09.49,0:48:13.19,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}过来 给我舔舔
+Dialogue: 0,0:48:17.58,0:48:18.45,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,0:48:18.84,0:48:20.85,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就这样给我舔舔
+Dialogue: 0,0:49:04.74,0:49:06.42,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要光舔这里
+Dialogue: 0,0:49:06.62,0:49:10.52,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}也来舔舔蛋蛋吧
+Dialogue: 0,0:49:10.98,0:49:13.93,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧 舔舔吧
+Dialogue: 0,0:49:15.85,0:49:18.28,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好好地舔
+Dialogue: 0,0:49:29.70,0:49:31.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}嘴张大点
+Dialogue: 0,0:49:37.00,0:49:42.68,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧 让我好好爽爽吧
+Dialogue: 0,0:49:46.12,0:49:46.98,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,0:49:53.62,0:49:54.58,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽啊
+Dialogue: 0,0:50:08.88,0:50:13.35,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好好地舔 一会就会射的
+Dialogue: 0,0:50:16.34,0:50:17.16,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}舒服
+Dialogue: 0,0:50:25.05,0:50:25.73,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,0:50:31.19,0:50:32.14,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}要射了
+Dialogue: 0,0:50:33.31,0:50:35.03,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我要射了
+Dialogue: 0,0:51:08.26,0:51:09.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不行了 要射了
+Dialogue: 0,0:51:51.38,0:51:55.39,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧  给我舔干净
+Dialogue: 0,0:51:59.07,0:52:02.59,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}给我吸一下吧
+Dialogue: 0,0:52:03.99,0:52:06.27,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}把里面的吸干净
+Dialogue: 0,0:52:08.21,0:52:09.18,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,0:52:11.93,0:52:13.45,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}给我舔干净
+Dialogue: 0,0:52:15.29,0:52:19.36,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}给我舔干净 好爽啊
+Dialogue: 0,0:52:21.58,0:52:27.54,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这样真是太爽了
+Dialogue: 0,0:53:53.56,0:53:55.15,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}今天跟儿子广志做过了吧
+Dialogue: 0,0:53:59.33,0:54:00.68,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}做过了吧
+Dialogue: 0,0:54:08.01,0:54:10.69,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不回答可是不行的哦
+Dialogue: 0,0:54:25.69,0:54:27.27,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}今天还这样. . .
+Dialogue: 0,0:54:30.04,0:54:33.57,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}可就是你的错了
+Dialogue: 0,0:54:44.60,0:54:47.42,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我来让你的身体更爽
+Dialogue: 0,0:54:56.38,0:54:58.86,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}被他听到可就不好了
+Dialogue: 0,0:55:21.22,0:55:23.71,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}乳头都硬了呢
+Dialogue: 0,0:56:07.98,0:56:10.13,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}乳头硬了
+Dialogue: 0,0:56:52.53,0:56:53.41,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好棒啊
+Dialogue: 0,0:56:56.55,0:56:57.55,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就是这里
+Dialogue: 0,0:57:07.41,0:57:08.31,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}手趴着
+Dialogue: 0,0:58:42.51,0:58:44.18,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看得好清楚啊
+Dialogue: 0,0:59:08.67,0:59:12.04,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我好好看看
+Dialogue: 0,0:59:28.11,0:59:32.38,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这样隔着内裤揉. . .
+Dialogue: 0,0:59:32.50,0:59:33.74,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你很喜欢吧
+Dialogue: 0,0:59:55.41,0:59:56.33,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,1:00:11.57,1:00:12.82,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}张开嘴
+Dialogue: 0,1:00:18.37,1:00:19.32,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,1:00:37.10,1:00:38.86,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就这样来
+Dialogue: 0,1:00:59.49,1:01:00.63,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}脱了吧
+Dialogue: 0,1:01:07.68,1:01:08.63,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我看看
+Dialogue: 0,1:01:13.72,1:01:15.09,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看着这边
+Dialogue: 0,1:01:18.22,1:01:20.90,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我好好看看
+Dialogue: 0,1:01:30.74,1:01:31.56,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就是这里
+Dialogue: 0,1:02:02.20,1:02:04.13,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}都湿了啊
+Dialogue: 0,1:02:06.38,1:02:08.62,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}淫水不断啊
+Dialogue: 0,1:02:30.10,1:02:31.96,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}湿得都出声音了呢
+Dialogue: 0,1:03:50.08,1:03:52.50,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}湿了呢
+Dialogue: 0,1:03:53.66,1:03:56.61,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}小穴里好多水啊
+Dialogue: 0,1:03:59.90,1:04:02.32,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}跟广志一起也这样吧
+Dialogue: 0,1:04:22.41,1:04:23.32,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}叉开
+Dialogue: 0,1:04:24.51,1:04:25.98,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我看看
+Dialogue: 0,1:04:27.52,1:04:31.31,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看看吧. . .
+Dialogue: 0,1:04:33.65,1:04:36.25,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看看你有多色
+Dialogue: 0,1:05:21.61,1:05:23.17,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}给我揉揉
+Dialogue: 0,1:05:24.18,1:05:25.53,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看着这里
+Dialogue: 0,1:05:26.52,1:05:27.43,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看着这里
+Dialogue: 0,1:05:28.96,1:05:32.03,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}广志在隔壁睡着了
+Dialogue: 0,1:05:33.55,1:05:35.28,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}他睡了. . .
+Dialogue: 0,1:05:37.68,1:05:38.66,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}没事的
+Dialogue: 0,1:05:41.23,1:05:44.02,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}他睡着了就不会醒的
+Dialogue: 0,1:05:46.17,1:05:48.09,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你也很了解这一点的吧
+Dialogue: 0,1:06:01.20,1:06:02.20,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}变硬了
+Dialogue: 0,1:06:10.30,1:06:11.46,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}都这样了
+Dialogue: 0,1:06:13.94,1:06:15.12,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你很喜欢这个吧
+Dialogue: 0,1:06:39.35,1:06:41.75,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我给你松开
+Dialogue: 0,1:06:56.20,1:06:58.00,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧  张开嘴
+Dialogue: 0,1:06:58.92,1:07:02.14,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}快点张开嘴
+Dialogue: 0,1:07:35.99,1:07:37.31,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}给我夹着吧
+Dialogue: 0,1:07:42.87,1:07:43.72,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这样来
+Dialogue: 0,1:08:06.68,1:08:08.32,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你自己来吧
+Dialogue: 0,1:08:18.23,1:08:19.11,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,1:08:20.77,1:08:21.68,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,1:08:26.65,1:08:27.62,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}快点
+Dialogue: 0,1:09:17.95,1:09:18.83,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,1:09:18.85,1:09:21.82,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}要好好地吹哦
+Dialogue: 0,1:09:58.50,1:09:59.46,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好舒服啊
+Dialogue: 0,1:10:37.38,1:10:38.24,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}怎么了呢
+Dialogue: 0,1:10:56.67,1:10:57.98,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}继续来
+Dialogue: 0,1:10:59.88,1:11:01.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}给我揉揉吧
+Dialogue: 0,1:11:04.81,1:11:05.75,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这样做
+Dialogue: 0,1:11:08.33,1:11:09.94,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我一会就插进去
+Dialogue: 0,1:11:12.25,1:11:14.09,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很喜欢那样的吧
+Dialogue: 0,1:11:36.59,1:11:40.30,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}刚刚做得很好
+Dialogue: 0,1:11:51.17,1:11:52.85,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}所以我就插进去哦
+Dialogue: 0,1:11:59.09,1:12:01.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很想让我插的吧
+Dialogue: 0,1:12:01.11,1:12:01.78,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要
+Dialogue: 0,1:12:03.81,1:12:04.77,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来吧
+Dialogue: 0,1:12:11.41,1:12:12.17,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}是这里
+Dialogue: 0,1:12:13.14,1:12:14.05,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就是这里
+Dialogue: 0,1:12:18.98,1:12:24.74,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}其实你也很想让我插进去的吧
+Dialogue: 0,1:12:39.40,1:12:40.27,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}插进去了
+Dialogue: 0,1:12:52.30,1:12:54.05,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}插的好深啊
+Dialogue: 0,1:12:59.00,1:13:01.02,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来确认一下吧
+Dialogue: 0,1:13:18.30,1:13:19.24,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}插深点
+Dialogue: 0,1:13:36.75,1:13:37.73,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}舒服吧
+Dialogue: 0,1:13:46.66,1:13:48.75,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}来看看吧
+Dialogue: 0,1:13:54.39,1:13:56.21,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很舒服 是吧
+Dialogue: 0,1:14:44.87,1:14:46.90,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好多水啊
+Dialogue: 0,1:14:48.28,1:14:50.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}真是色啊
+Dialogue: 0,1:15:22.93,1:15:24.48,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你来扭动吧
+Dialogue: 0,1:15:28.85,1:15:29.99,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}搂住我
+Dialogue: 0,1:16:19.03,1:16:19.84,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就这样
+Dialogue: 0,1:16:22.28,1:16:23.09,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}很好
+Dialogue: 0,1:16:33.34,1:16:35.07,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好大的响声啊
+Dialogue: 0,1:16:35.86,1:16:36.73,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}听吧
+Dialogue: 0,1:17:19.26,1:17:21.16,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}慢慢扭
+Dialogue: 0,1:17:22.20,1:17:23.96,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}太快了的话. . .
+Dialogue: 0,1:17:24.43,1:17:26.18,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}会很响的
+Dialogue: 0,1:17:29.14,1:17:33.86,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}要是被广志听到就不好了
+Dialogue: 0,1:17:39.09,1:17:42.13,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你太厉害了
+Dialogue: 0,1:17:43.52,1:17:45.46,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}竟然在他隔壁做这种事
+Dialogue: 0,1:17:49.14,1:17:52.96,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}他睡得很熟吧
+Dialogue: 0,1:18:34.08,1:18:35.61,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}让我看看你的脸
+Dialogue: 0,1:18:40.26,1:18:42.10,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}真是漂亮啊
+Dialogue: 0,1:18:47.69,1:18:50.51,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}在自己的卧室里这样做
+Dialogue: 0,1:18:52.56,1:18:53.66,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}真是色啊
+Dialogue: 0,1:19:10.18,1:19:10.96,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽
+Dialogue: 0,1:19:52.65,1:19:53.26,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}再来
+Dialogue: 0,1:21:08.41,1:21:09.29,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好舒服啊
+Dialogue: 0,1:21:36.30,1:21:37.66,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}夹住了 好爽
+Dialogue: 0,1:21:54.32,1:21:55.04,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就是这里
+Dialogue: 0,1:21:57.91,1:21:59.12,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}看得好清楚啊
+Dialogue: 0,1:22:54.90,1:22:56.77,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我要加速了
+Dialogue: 0,1:23:14.07,1:23:15.52,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽啊
+Dialogue: 0,1:23:35.11,1:23:36.10,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好舒服啊
+Dialogue: 0,1:23:40.74,1:23:43.17,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就这样继续来吧
+Dialogue: 0,1:23:48.21,1:23:50.60,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要内射 不要
+Dialogue: 0,1:23:51.99,1:23:53.26,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}说什么呢
+Dialogue: 0,1:24:04.14,1:24:04.73,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}舒服
+Dialogue: 0,1:24:05.89,1:24:06.68,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽
+Dialogue: 0,1:24:41.96,1:24:42.87,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}射了
+Dialogue: 0,1:25:50.15,1:25:52.03,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}叉开点让我看看
+Dialogue: 0,1:26:18.96,1:26:20.66,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}射的都流出来了呢
+Dialogue: 0,1:26:22.40,1:26:23.34,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}没事的
+Dialogue: 0,1:26:24.62,1:26:26.69,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}里面还有呢
+Dialogue: 0,1:26:29.99,1:26:31.51,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}好爽啊
+Dialogue: 0,1:26:36.19,1:26:39.69,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你怎么了呢 怎麽这种表情
+Dialogue: 0,1:26:40.78,1:26:41.56,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}听好了
+Dialogue: 0,1:26:43.48,1:26:47.42,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}回屋吧 别让他发现了
+Dialogue: 0,1:26:54.48,1:26:56.62,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我说的听见了没
+Dialogue: 0,1:27:05.32,1:27:10.82,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这麽在意我射在里面了吗
+Dialogue: 0,1:27:14.94,1:27:15.87,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}没事的
+Dialogue: 0,1:27:21.90,1:27:24.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就算怀孕的话. . .
+Dialogue: 0,1:27:27.17,1:27:30.26,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我和广志也会养的
+Dialogue: 0,1:27:34.65,1:27:37.05,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我们就是这样的父子
+Dialogue: 0,1:27:40.31,1:27:42.71,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不管是谁的孩子
+Dialogue: 0,1:27:43.89,1:27:46.39,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}没人会多想的
+Dialogue: 0,1:27:50.66,1:27:52.03,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你别太在意
+Dialogue: 0,1:27:55.10,1:27:56.58,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}生了孩子的话
+Dialogue: 0,1:27:57.82,1:27:59.24,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我们会照顾的
+Dialogue: 0,1:28:18.43,1:28:20.07,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}吃你一颗
+Dialogue: 0,1:28:22.33,1:28:23.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}等等嘛 爸爸
+Dialogue: 0,1:28:24.37,1:28:24.94,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}再来一次
+Dialogue: 0,1:28:27.89,1:28:28.69,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}可以的吧
+Dialogue: 0,1:28:30.90,1:28:31.55,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}早啊
+Dialogue: 0,1:28:31.72,1:28:33.04,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你们早
+Dialogue: 0,1:28:33.09,1:28:33.74,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}早上好
+Dialogue: 0,1:28:33.96,1:28:34.72,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}你早啊
+Dialogue: 0,1:28:36.59,1:28:38.45,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}肚子大了不少了
+Dialogue: 0,1:28:39.28,1:28:40.72,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}就是啊
+Dialogue: 0,1:28:46.70,1:28:47.97,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}刚刚动了一下
+Dialogue: 0,1:28:51.67,1:28:53.08,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}孩子在动了
+Dialogue: 0,1:28:56.34,1:28:57.26,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}真棒啊
+Dialogue: 0,1:29:05.89,1:29:06.51,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}不要这样嘛
+Dialogue: 0,1:29:06.53,1:29:07.16,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}没事的
+Dialogue: 0,1:29:14.35,1:29:18.02,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}那之后亜丽莎就怀孕了
+Dialogue: 0,1:29:20.72,1:29:23.92,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}儿子至今也不知道我们俩的关系
+Dialogue: 0,1:29:27.81,1:29:32.52,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}我真的很感谢他们夫妇
+Dialogue: 0,1:29:33.50,1:29:35.25,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}能这么好的关心我
+Dialogue: 0,1:29:37.47,1:29:41.91,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}这也成了我继续活着的动力和乐趣
+Dialogue: 0,1:29:41.93,1:29:44.87,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}isrts.blogspot.com
+Dialogue: 0,1:29:44.90,1:29:48.90,Default,,0,0,0,,{\bord0\shad0\4a&H82&\2c&H4DC8BD&}黑木亜丽莎
+

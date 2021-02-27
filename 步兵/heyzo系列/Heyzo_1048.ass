@@ -1,0 +1,43 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:26.28,0:01:31.02,Default,,0000,0000,0000,,喂 你好 我是
+Dialogue: 0,0:01:31.82,0:01:35.14,Default,,0000,0000,0000,,恩 你是需要上门的全套服务吗？
+Dialogue: 0,0:01:35.14,0:01:37.14,Default,,0000,0000,0000,,恩 这就过去
+Dialogue: 0,0:04:37.82,0:04:38.82,Default,,0000,0000,0000,,我屄湿了
+Dialogue: 0,0:04:39.14,0:04:41.82,Default,,0000,0000,0000,,可在屄里射精吗？
+Dialogue: 0,0:23:54.14,0:23:54.33,Default,,0000,0000,0000,,真是大胆啊
+Dialogue: 0,0:23:55.14,0:23:56.82,Default,,0000,0000,0000,,什么时候回来的
+Dialogue: 0,0:23:57.14,0:23:57.82,Default,,0000,0000,0000,,什么时候来的
+Dialogue: 0,0:23:58.14,0:23:59.82,Default,,0000,0000,0000,,很久前哟
+Dialogue: 0,0:24:00.14,0:24:05.34,Default,,0000,0000,0000,,是吗
+Dialogue: 0,0:24:12.14,0:24:17.34,Default,,0000,0000,0000,,这么大胆的姿势
+Dialogue: 0,0:24:18.14,0:24:19.14,Default,,0000,0000,0000,,会想做的吧
+Dialogue: 0,0:24:19.54,0:24:20.82,Default,,0000,0000,0000,,再说什么
+Dialogue: 0,0:24:21.14,0:24:26.37,Default,,0000,0000,0000,,可以吧 来玩吧
+Dialogue: 0,0:58:47.14,0:58:51.82,Default,,0000,0000,0000,,射到最里面了
+Dialogue: 0,0:58:52.14,0:58:57.37,Default,,0000,0000,0000,,会怀孕的
+

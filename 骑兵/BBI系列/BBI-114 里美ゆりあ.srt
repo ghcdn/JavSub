@@ -1,0 +1,408 @@
+1
+00:00:00,000 --> 00:00:00,000
+; http://www.aegisub.org/
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 1
+Video File: ..\Downloads\BBI-114 手 コキナース の 強制 射精 × チン ポ 潮 吹か せ 看護 里美 ゆり あ.avi
+YCbCr Matrix: TV.601
+Video Aspect Ratio: c1.33333
+Video Position: 23
+PlayResX: 640
+PlayResY: 480
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体简体,21,&H00FFFFFF,&HF0000000,&H006C3300,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,5,5,5,134
+
+[Events]
+Dialogue: 0,0:00:00.78,0:00:10.05,*Default,NTP,0,0,0,,{\c&HFFFFFF&\3c&H000000&\fn宋体\fs34\b1\fscx103\fscy111\pos(511.666,273.001)\fad(700,700)}让人强制射精\N让鸡巴喷射的
+Dialogue: 0,0:00:00.78,0:00:10.05,*Default,NTP,0,0,0,,{\c&HFFFFFF&\3c&H000000&\fn宋体\fs34\b1\fscx103\fscy111\pos(443.333,314.334)\fad(700,700)}护士
+Dialogue: 0,0:00:11.78,0:00:30.92,*Default,NTP,0,0,0,,{\c&HB0B0B0&\3c&H000000&\fn宋体\fs14\b1\fscx103\fscy111\pos(289.333,361.335)\fad(700,700)}现在的医疗中、护理渐渐的倾向看护的一部分专业性业务。
+Dialogue: 0,0:00:11.78,0:00:30.92,*Default,NTP,0,0,0,,{\c&HB0B0B0&\3c&H000000&\fn宋体\fs14\b1\fscx103\fscy111\fad(700,700)\pos(202.333,380.335)}实际上护理和看护是有区别的、
+Dialogue: 0,0:00:11.78,0:00:30.92,*Default,NTP,0,0,0,,{\c&HB0B0B0&\3c&H000000&\fn宋体\fs14\b1\fscx103\fscy111\fad(700,700)\pos(158.999,398.667)}现在的看护业务、
+Dialogue: 0,0:00:11.78,0:00:30.92,*Default,NTP,0,0,0,,{\c&HB0B0B0&\3c&H000000&\fn宋体\fs14\b1\fscx103\fscy111\fad(700,700)\pos(216.999,416.668)}是没有特定的业务内容和专业定义。
+Dialogue: 0,0:00:11.78,0:00:30.92,*Default,NTP,0,0,0,,{\c&HB0B0B0&\3c&H000000&\fn宋体\fs14\b1\fscx103\fscy111\fad(700,700)\pos(224.666,435.668)}和数年前相比兼任着护理业务的看护士
+Dialogue: 0,0:00:11.78,0:00:30.92,*Default,NTP,0,0,0,,{\c&HB0B0B0&\3c&H000000&\fn宋体\fs14\b1\fscx103\fscy111\fad(700,700)\pos(167,454.335)}现在更是持续的增加
+Dialogue: 0,0:01:42.28,0:01:43.40,*Default,NTP,0,0,0,,早安
+Dialogue: 0,0:01:43.89,0:01:46.78,*Default,NTP,0,0,0,,早安 你的头怎么了?
+Dialogue: 0,0:05:12.71,0:05:15.19,*Default,NTP,0,0,0,,-脚怎么样了? -没事了
+Dialogue: 0,0:05:16.47,0:05:18.43,*Default,NTP,0,0,0,,-没事吧? -没事
+Dialogue: 0,0:05:19.19,0:05:20.87,*Default,NTP,0,0,0,,-要小心啊 -谢谢
+Dialogue: 0,0:05:32.53,0:05:33.90,*Default,NTP,0,0,0,,没事
+Dialogue: 0,0:05:55.99,0:05:57.25,*Default,NTP,0,0,0,,早安
+Dialogue: 0,0:05:57.75,0:06:00.39,*Default,NTP,0,0,0,,铃木先生 今天感觉怎么样?
+Dialogue: 0,0:06:01.32,0:06:02.55,*Default,NTP,0,0,0,,感觉还不错
+Dialogue: 0,0:06:03.43,0:06:04.24,*Default,NTP,0,0,0,,是吗?
+Dialogue: 0,0:06:06.48,0:06:10.45,*Default,NTP,0,0,0,,先帮你量量体温
+Dialogue: 0,0:06:40.06,0:06:42.29,*Default,NTP,0,0,0,,再做个调查
+Dialogue: 0,0:06:43.74,0:06:45.32,*Default,NTP,0,0,0,,早上有勃起吗?
+Dialogue: 0,0:06:48.51,0:06:50.74,*Default,NTP,0,0,0,,是啊,有一点
+Dialogue: 0,0:06:51.70,0:06:52.85,*Default,NTP,0,0,0,,有一点,是吧?
+Dialogue: 0,0:06:54.70,0:06:57.03,*Default,NTP,0,0,0,,晚上有自慰吗?
+Dialogue: 0,0:07:00.03,0:07:01.29,*Default,NTP,0,0,0,,没有
+Dialogue: 0,0:07:03.29,0:07:06.76,*Default,NTP,0,0,0,,没有? 想做爱吗?
+Dialogue: 0,0:07:09.74,0:07:13.82,*Default,NTP,0,0,0,,-有点吧 -有点?
+Dialogue: 0,0:07:15.86,0:07:17.70,*Default,NTP,0,0,0,,那么
+Dialogue: 0,0:07:18.47,0:07:20.76,*Default,NTP,0,0,0,,马上开始护理咯
+Dialogue: 0,0:07:22.37,0:07:23.25,*Default,NTP,0,0,0,,拜托了
+Dialogue: 0,0:07:33.05,0:07:34.27,*Default,NTP,0,0,0,,没发烧
+Dialogue: 0,0:07:36.12,0:07:37.46,*Default,NTP,0,0,0,,失礼了
+Dialogue: 0,0:07:43.86,0:07:45.51,*Default,NTP,0,0,0,,-不冷吧? -是
+Dialogue: 0,0:07:50.72,0:07:52.71,*Default,NTP,0,0,0,,把衣服脱了哦
+Dialogue: 0,0:08:10.38,0:08:11.75,*Default,NTP,0,0,0,,先洗洗干净
+Dialogue: 0,0:08:14.31,0:08:15.17,*Default,NTP,0,0,0,,失礼了
+Dialogue: 0,0:08:18.01,0:08:19.34,*Default,NTP,0,0,0,,温度如何?
+Dialogue: 0,0:08:21.11,0:08:22.09,*Default,NTP,0,0,0,,很好
+Dialogue: 0,0:08:24.16,0:08:27.99,*Default,NTP,0,0,0,,硬硬的要清洗干净哦
+Dialogue: 0,0:08:36.66,0:08:38.23,*Default,NTP,0,0,0,,不舒服吗?
+Dialogue: 0,0:08:39.84,0:08:41.33,*Default,NTP,0,0,0,,舒服
+Dialogue: 0,0:08:46.25,0:08:47.18,*Default,NTP,0,0,0,,还有这里
+Dialogue: 0,0:08:58.88,0:08:59.85,*Default,NTP,0,0,0,,好了
+Dialogue: 0,0:09:27.48,0:09:30.79,*Default,NTP,0,0,0,,-不是打针哦 -那这是什么?
+Dialogue: 0,0:09:31.51,0:09:33.79,*Default,NTP,0,0,0,,医疗用的
+Dialogue: 0,0:09:39.13,0:09:41.02,*Default,NTP,0,0,0,,没事吧?
+Dialogue: 0,0:09:44.60,0:09:46.10,*Default,NTP,0,0,0,,黏黏的
+Dialogue: 0,0:09:49.05,0:09:50.63,*Default,NTP,0,0,0,,没事的
+Dialogue: 0,0:09:58.19,0:10:00.41,*Default,NTP,0,0,0,,给你更多吧
+Dialogue: 0,0:10:03.89,0:10:06.01,*Default,NTP,0,0,0,,-没事吧? -没事
+Dialogue: 0,0:10:18.65,0:10:19.92,*Default,NTP,0,0,0,,摸摸这里
+Dialogue: 0,0:10:40.30,0:10:42.18,*Default,NTP,0,0,0,,好硬的鸡巴啊
+Dialogue: 0,0:10:51.34,0:10:52.85,*Default,NTP,0,0,0,,你的手
+Dialogue: 0,0:10:53.44,0:10:54.97,*Default,NTP,0,0,0,,摸得我好舒服啊
+Dialogue: 0,0:10:57.54,0:10:58.76,*Default,NTP,0,0,0,,-是吗? -是
+Dialogue: 0,0:11:23.17,0:11:25.60,*Default,NTP,0,0,0,,什么感觉啊?
+Dialogue: 0,0:11:26.56,0:11:28.10,*Default,NTP,0,0,0,,好舒服啊
+Dialogue: 0,0:11:56.01,0:11:58.27,*Default,NTP,0,0,0,,还想要什么?
+Dialogue: 0,0:12:00.76,0:12:02.25,*Default,NTP,0,0,0,,我想你吻我
+Dialogue: 0,0:12:08.95,0:12:10.46,*Default,NTP,0,0,0,,要湿吻哦
+Dialogue: 0,0:12:50.78,0:12:52.52,*Default,NTP,0,0,0,,舔舔你的乳头
+Dialogue: 0,0:12:54.04,0:12:54.98,*Default,NTP,0,0,0,,-可以吗? -可以
+Dialogue: 0,0:12:56.41,0:12:57.97,*Default,NTP,0,0,0,,-请 -硬了哦
+Dialogue: 0,0:12:59.21,0:13:00.85,*Default,NTP,0,0,0,,我很敏感的
+Dialogue: 0,0:13:11.72,0:13:12.81,*Default,NTP,0,0,0,,要舔了哦
+Dialogue: 0,0:13:28.01,0:13:29.42,*Default,NTP,0,0,0,,硬硬的啊
+Dialogue: 0,0:14:20.51,0:14:21.28,*Default,NTP,0,0,0,,舒服啊
+Dialogue: 0,0:14:33.54,0:14:34.39,*Default,NTP,0,0,0,,好棒
+Dialogue: 0,0:14:38.13,0:14:39.82,*Default,NTP,0,0,0,,你舔的超棒啊
+Dialogue: 0,0:14:41.51,0:14:42.29,*Default,NTP,0,0,0,,是吗?
+Dialogue: 0,0:14:46.59,0:14:48.12,*Default,NTP,0,0,0,,那就好好享受吧
+Dialogue: 0,0:15:13.15,0:15:14.53,*Default,NTP,0,0,0,,鸡巴...
+Dialogue: 0,0:15:15.26,0:15:18.06,*Default,NTP,0,0,0,,-感觉如何? -好舒服
+Dialogue: 0,0:15:24.99,0:15:26.32,*Default,NTP,0,0,0,,舒服吧?
+Dialogue: 0,0:15:28.89,0:15:30.81,*Default,NTP,0,0,0,,好舒服
+Dialogue: 0,0:15:32.71,0:15:34.15,*Default,NTP,0,0,0,,我想被操
+Dialogue: 0,0:15:36.33,0:15:37.29,*Default,NTP,0,0,0,,操逼吗?
+Dialogue: 0,0:15:40.15,0:15:41.37,*Default,NTP,0,0,0,,想操贱逼啊?
+Dialogue: 0,0:15:51.44,0:15:53.38,*Default,NTP,0,0,0,,先戴上套子哦
+Dialogue: 0,0:16:25.14,0:16:26.16,*Default,NTP,0,0,0,,舒服
+Dialogue: 0,0:16:28.64,0:16:30.56,*Default,NTP,0,0,0,,等等哦
+Dialogue: 0,0:16:36.36,0:16:37.77,*Default,NTP,0,0,0,,有点害羞
+Dialogue: 0,0:16:39.66,0:16:40.60,*Default,NTP,0,0,0,,害羞吗?
+Dialogue: 0,0:16:44.32,0:16:45.30,*Default,NTP,0,0,0,,真的可以吗?
+Dialogue: 0,0:16:48.80,0:16:50.72,*Default,NTP,0,0,0,,这是我护理工作的一部分哦
+Dialogue: 0,0:17:15.36,0:17:16.41,*Default,NTP,0,0,0,,好漂亮的胸部
+Dialogue: 0,0:17:32.38,0:17:33.37,*Default,NTP,0,0,0,,受不了了
+Dialogue: 0,0:17:48.79,0:17:49.62,*Default,NTP,0,0,0,,好棒啊
+Dialogue: 0,0:18:06.61,0:18:07.46,*Default,NTP,0,0,0,,怎么样?
+Dialogue: 0,0:18:08.27,0:18:09.15,*Default,NTP,0,0,0,,要进去咯
+Dialogue: 0,0:18:35.30,0:18:36.32,*Default,NTP,0,0,0,,你没事吧?
+Dialogue: 0,0:19:21.70,0:19:22.99,*Default,NTP,0,0,0,,怎么样?
+Dialogue: 0,0:19:23.69,0:19:24.42,*Default,NTP,0,0,0,,好舒服
+Dialogue: 0,0:19:25.82,0:19:26.73,*Default,NTP,0,0,0,,舒服吧?
+Dialogue: 0,0:19:28.23,0:19:29.03,*Default,NTP,0,0,0,,舒服
+Dialogue: 0,0:19:32.96,0:19:33.85,*Default,NTP,0,0,0,,我可以摸你吗?
+Dialogue: 0,0:22:25.59,0:22:27.63,*Default,NTP,0,0,0,,-舒服 -舒服吧?
+Dialogue: 0,0:22:28.39,0:22:30.15,*Default,NTP,0,0,0,,-我们一起高潮吧 -好啊
+Dialogue: 0,0:22:35.69,0:22:36.77,*Default,NTP,0,0,0,,开心吧?
+Dialogue: 0,0:22:38.76,0:22:39.64,*Default,NTP,0,0,0,,是的
+Dialogue: 0,0:22:40.63,0:22:41.63,*Default,NTP,0,0,0,,我也开心
+Dialogue: 0,0:22:42.64,0:22:44.75,*Default,NTP,0,0,0,,那就让我们更爽吧
+Dialogue: 0,0:22:46.01,0:22:46.85,*Default,NTP,0,0,0,,来吧
+Dialogue: 0,0:27:04.33,0:27:05.40,*Default,NTP,0,0,0,,舒服
+Dialogue: 0,0:27:07.07,0:27:08.18,*Default,NTP,0,0,0,,好舒服
+Dialogue: 0,0:27:10.44,0:27:12.86,*Default,NTP,0,0,0,,好棒
+Dialogue: 0,0:27:49.23,0:27:51.00,*Default,NTP,0,0,0,,好舒服
+Dialogue: 0,0:27:52.43,0:27:54.36,*Default,NTP,0,0,0,,给我更多吧
+Dialogue: 0,0:29:44.13,0:29:46.08,*Default,NTP,0,0,0,,鸡巴好硬啊
+Dialogue: 0,0:29:47.17,0:29:48.23,*Default,NTP,0,0,0,,我要射了
+Dialogue: 0,0:30:01.55,0:30:02.75,*Default,NTP,0,0,0,,那就射给我吧
+Dialogue: 0,0:30:11.43,0:30:12.39,*Default,NTP,0,0,0,,射了
+Dialogue: 0,0:30:18.74,0:30:19.53,*Default,NTP,0,0,0,,给我吧
+Dialogue: 0,0:30:24.26,0:30:26.05,*Default,NTP,0,0,0,,啊 射了!
+Dialogue: 0,0:30:33.82,0:30:34.62,*Default,NTP,0,0,0,,射了
+Dialogue: 0,0:30:44.65,0:30:45.53,*Default,NTP,0,0,0,,射了!
+Dialogue: 0,0:31:07.01,0:31:08.54,*Default,NTP,0,0,0,,射了好多啊
+Dialogue: 0,0:31:10.72,0:31:12.57,*Default,NTP,0,0,0,,好精神的鸡巴
+Dialogue: 0,0:32:31.99,0:32:33.78,*Default,NTP,0,0,0,,哪里还要擦擦呢?
+Dialogue: 0,0:32:38.50,0:32:39.74,*Default,NTP,0,0,0,,龟头吧
+Dialogue: 0,0:32:53.99,0:32:55.14,*Default,NTP,0,0,0,,舒服吧?
+Dialogue: 0,0:32:56.62,0:32:58.02,*Default,NTP,0,0,0,,好棒
+Dialogue: 0,0:32:59.07,0:33:00.06,*Default,NTP,0,0,0,,舒服
+Dialogue: 0,0:33:17.53,0:33:21.26,*Default,NTP,0,0,0,,下次的护理会更爽哦
+Dialogue: 0,0:33:23.99,0:33:25.25,*Default,NTP,0,0,0,,我知道了
+Dialogue: 0,0:33:49.43,0:33:50.48,*Default,NTP,0,0,0,,-医生 -是
+Dialogue: 0,0:33:51.01,0:33:52.68,*Default,NTP,0,0,0,,诊察准备好了
+Dialogue: 0,0:33:53.55,0:33:55.54,*Default,NTP,0,0,0,,叫他进来吧
+Dialogue: 0,0:33:56.63,0:33:58.35,*Default,NTP,0,0,0,,佐藤先生请进
+Dialogue: 0,0:34:03.30,0:34:04.09,*Default,NTP,0,0,0,,打扰了
+Dialogue: 0,0:34:06.18,0:34:07.32,*Default,NTP,0,0,0,,-请坐 -是
+Dialogue: 0,0:34:11.51,0:34:13.00,*Default,NTP,0,0,0,,今天的...
+Dialogue: 0,0:34:14.54,0:34:15.55,*Default,NTP,0,0,0,,情况如何?
+Dialogue: 0,0:34:16.80,0:34:20.54,*Default,NTP,0,0,0,,-有点怪怪的 -没事的
+Dialogue: 0,0:34:20.95,0:34:24.21,*Default,NTP,0,0,0,,这是在恢复
+Dialogue: 0,0:34:24.71,0:34:28.00,*Default,NTP,0,0,0,,-会有点怪怪的感觉是正常现象 -哦 是啊
+Dialogue: 0,0:34:28.44,0:34:31.15,*Default,NTP,0,0,0,,很多人都这样
+Dialogue: 0,0:34:31.90,0:34:32.67,*Default,NTP,0,0,0,,是吗?
+Dialogue: 0,0:34:33.26,0:34:35.43,*Default,NTP,0,0,0,,要注意饮食
+Dialogue: 0,0:34:36.28,0:34:40.39,*Default,NTP,0,0,0,,多休息
+Dialogue: 0,0:34:41.20,0:34:43.49,*Default,NTP,0,0,0,,我会的
+Dialogue: 0,0:34:44.23,0:34:46.63,*Default,NTP,0,0,0,,-要注意哦 -是的
+Dialogue: 0,0:34:52.79,0:34:57.07,*Default,NTP,0,0,0,,让护士小姐再检查一下
+Dialogue: 0,0:34:57.52,0:35:01.70,*Default,NTP,0,0,0,,有什么问题马上来找我
+Dialogue: 0,0:35:02.51,0:35:04.19,*Default,NTP,0,0,0,,那么 拜托了
+Dialogue: 0,0:35:05.08,0:35:05.96,*Default,NTP,0,0,0,,谢谢你
+Dialogue: 0,0:35:11.16,0:35:13.42,*Default,NTP,0,0,0,,-请到这边来 -是
+Dialogue: 0,0:35:14.85,0:35:18.45,*Default,NTP,0,0,0,,先检查吧
+Dialogue: 0,0:35:19.83,0:35:21.26,*Default,NTP,0,0,0,,-要脱病服吗? -是的
+Dialogue: 0,0:35:22.51,0:35:24.91,*Default,NTP,0,0,0,,要脱的
+Dialogue: 0,0:35:26.58,0:35:29.06,*Default,NTP,0,0,0,,-麻烦了 -没关系
+Dialogue: 0,0:35:33.75,0:35:37.67,*Default,NTP,0,0,0,,慢慢躺下去 小心头
+Dialogue: 0,0:35:43.69,0:35:46.28,*Default,NTP,0,0,0,,把你的腿升起来了哦
+Dialogue: 0,0:35:50.95,0:35:52.64,*Default,NTP,0,0,0,,-难受吗? -不
+Dialogue: 0,0:35:59.29,0:36:00.74,*Default,NTP,0,0,0,,给我看看
+Dialogue: 0,0:36:09.42,0:36:10.34,*Default,NTP,0,0,0,,失礼了
+Dialogue: 0,0:36:12.00,0:36:14.58,*Default,NTP,0,0,0,,愈合的很好
+Dialogue: 0,0:36:19.66,0:36:21.11,*Default,NTP,0,0,0,,看得好清楚
+Dialogue: 0,0:36:23.15,0:36:26.19,*Default,NTP,0,0,0,,可以舔我吗?
+Dialogue: 0,0:36:30.67,0:36:31.86,*Default,NTP,0,0,0,,-舔你? -是
+Dialogue: 0,0:36:35.34,0:36:36.84,*Default,NTP,0,0,0,,真拿你没办法
+Dialogue: 0,0:36:57.87,0:36:59.07,*Default,NTP,0,0,0,,可以摸吗?
+Dialogue: 0,0:37:01.48,0:37:03.59,*Default,NTP,0,0,0,,不能哦
+Dialogue: 0,0:37:04.87,0:37:05.66,*Default,NTP,0,0,0,,不行吗?
+Dialogue: 0,0:37:07.68,0:37:09.74,*Default,NTP,0,0,0,,但是为了佐藤先生
+Dialogue: 0,0:37:10.54,0:37:13.23,*Default,NTP,0,0,0,,我可以满足你的其他要求
+Dialogue: 0,0:37:14.23,0:37:15.43,*Default,NTP,0,0,0,,真的吗?
+Dialogue: 0,0:37:17.92,0:37:21.27,*Default,NTP,0,0,0,,我可以亲你吗?
+Dialogue: 0,0:37:23.47,0:37:25.15,*Default,NTP,0,0,0,,-好的 -拜托了
+Dialogue: 0,0:38:00.17,0:38:01.39,*Default,NTP,0,0,0,,好吃
+Dialogue: 0,0:38:15.41,0:38:18.17,*Default,NTP,0,0,0,,好可爱的嘴巴
+Dialogue: 0,0:38:20.91,0:38:22.95,*Default,NTP,0,0,0,,-可以舔吗? -可以
+Dialogue: 0,0:38:30.16,0:38:31.51,*Default,NTP,0,0,0,,真舒服
+Dialogue: 0,0:38:34.87,0:38:35.59,*Default,NTP,0,0,0,,好棒!
+Dialogue: 0,0:39:55.56,0:39:56.84,*Default,NTP,0,0,0,,好可爱的男人
+Dialogue: 0,0:40:24.94,0:40:26.51,*Default,NTP,0,0,0,,我还要
+Dialogue: 0,0:40:29.84,0:40:31.86,*Default,NTP,0,0,0,,舒服吧?
+Dialogue: 0,0:42:40.64,0:42:43.04,*Default,NTP,0,0,0,,-想要口水吗? -给我
+Dialogue: 0,0:42:48.92,0:42:51.42,*Default,NTP,0,0,0,,-还有 -真拿你没办法
+Dialogue: 0,0:43:07.83,0:43:08.68,*Default,NTP,0,0,0,,请给我更多吧
+Dialogue: 0,0:43:18.90,0:43:20.84,*Default,NTP,0,0,0,,好吃
+Dialogue: 0,0:43:21.98,0:43:23.28,*Default,NTP,0,0,0,,好可爱
+Dialogue: 0,0:43:25.15,0:43:27.09,*Default,NTP,0,0,0,,-想要摸我吗? -想
+Dialogue: 0,0:43:33.31,0:43:34.16,*Default,NTP,0,0,0,,好软啊
+Dialogue: 0,0:43:36.82,0:43:37.93,*Default,NTP,0,0,0,,舒服吧?
+Dialogue: 0,0:43:39.76,0:43:40.68,*Default,NTP,0,0,0,,好棒
+Dialogue: 0,0:43:49.11,0:43:51.44,*Default,NTP,0,0,0,,舔乳头吧
+Dialogue: 0,0:43:55.66,0:43:58.61,*Default,NTP,0,0,0,,喜欢我这样欺负你吗?
+Dialogue: 0,0:43:59.66,0:44:03.54,*Default,NTP,0,0,0,,我还要
+Dialogue: 0,0:44:05.86,0:44:08.68,*Default,NTP,0,0,0,,-要对医生保密哦 -肯定的
+Dialogue: 0,0:44:15.03,0:44:15.87,*Default,NTP,0,0,0,,好棒
+Dialogue: 0,0:44:16.68,0:44:18.56,*Default,NTP,0,0,0,,不能射哦
+Dialogue: 0,0:44:42.58,0:44:43.44,*Default,NTP,0,0,0,,怎么样?
+Dialogue: 0,0:44:44.16,0:44:45.15,*Default,NTP,0,0,0,,舒服
+Dialogue: 0,0:44:54.58,0:44:55.36,*Default,NTP,0,0,0,,舒服吧?
+Dialogue: 0,0:44:57.09,0:44:58.63,*Default,NTP,0,0,0,,把手指伸进去吧
+Dialogue: 0,0:45:00.40,0:45:02.87,*Default,NTP,0,0,0,,-要吗? -没事的
+Dialogue: 0,0:45:05.07,0:45:06.55,*Default,NTP,0,0,0,,不会痛吧?
+Dialogue: 0,0:45:06.89,0:45:09.41,*Default,NTP,0,0,0,,我想要啊
+Dialogue: 0,0:45:34.39,0:45:36.47,*Default,NTP,0,0,0,,-怎样? -舒服
+Dialogue: 0,0:45:40.74,0:45:41.87,*Default,NTP,0,0,0,,真舒服
+Dialogue: 0,0:45:43.95,0:45:45.07,*Default,NTP,0,0,0,,-这里吗? -是的
+Dialogue: 0,0:45:52.55,0:45:53.61,*Default,NTP,0,0,0,,鸡巴...
+Dialogue: 0,0:45:57.34,0:45:58.84,*Default,NTP,0,0,0,,硬了哦
+Dialogue: 0,0:46:48.91,0:46:50.96,*Default,NTP,0,0,0,,好硬
+Dialogue: 0,0:46:52.57,0:46:53.35,*Default,NTP,0,0,0,,-舒服 -舒服啊?
+Dialogue: 0,0:46:56.37,0:47:00.05,*Default,NTP,0,0,0,,-那就好好感受吧 -是
+Dialogue: 0,0:47:05.44,0:47:08.98,*Default,NTP,0,0,0,,-两根手指进去了哦 -好害羞
+Dialogue: 0,0:47:18.13,0:47:20.20,*Default,NTP,0,0,0,,好紧啊
+Dialogue: 0,0:47:28.03,0:47:30.71,*Default,NTP,0,0,0,,-怎样? -舒服
+Dialogue: 0,0:47:33.45,0:47:34.94,*Default,NTP,0,0,0,,出来哦
+Dialogue: 0,0:48:15.14,0:48:17.03,*Default,NTP,0,0,0,,要射了
+Dialogue: 0,0:48:17.28,0:48:20.81,*Default,NTP,0,0,0,,-要射了啊 -射吧
+Dialogue: 0,0:48:21.31,0:48:27.07,*Default,NTP,0,0,0,,射了...
+Dialogue: 0,0:48:41.29,0:48:41.98,*Default,NTP,0,0,0,,不好意思
+Dialogue: 0,0:48:44.21,0:48:45.82,*Default,NTP,0,0,0,,很舒服吧?
+Dialogue: 0,0:49:20.02,0:49:22.62,*Default,NTP,0,0,0,,射了好多哦
+Dialogue: 0,0:49:23.60,0:49:24.35,*Default,NTP,0,0,0,,不好意思
+Dialogue: 0,0:49:28.02,0:49:30.16,*Default,NTP,0,0,0,,舒服吗,变态君?
+Dialogue: 0,0:49:47.77,0:49:48.79,*Default,NTP,0,0,0,,佐何先生
+Dialogue: 0,0:49:49.86,0:49:50.73,*Default,NTP,0,0,0,,是
+Dialogue: 0,0:49:52.97,0:49:57.15,*Default,NTP,0,0,0,,不好好吃饭的话 身体会不好哦
+Dialogue: 0,0:49:59.24,0:49:59.93,*Default,NTP,0,0,0,,是
+Dialogue: 0,0:50:00.97,0:50:01.99,*Default,NTP,0,0,0,,有听我说吗?
+Dialogue: 0,0:50:03.35,0:50:04.06,*Default,NTP,0,0,0,,有
+Dialogue: 0,0:50:09.27,0:50:10.18,*Default,NTP,0,0,0,,怎么了?
+Dialogue: 0,0:50:11.45,0:50:15.55,*Default,NTP,0,0,0,,-蛋蛋那里不舒服 -又是这样?
+Dialogue: 0,0:50:17.62,0:50:18.85,*Default,NTP,0,0,0,,真没办法
+Dialogue: 0,0:50:21.86,0:50:22.69,*Default,NTP,0,0,0,,过来吧
+Dialogue: 0,0:50:24.47,0:50:26.06,*Default,NTP,0,0,0,,我来看看
+Dialogue: 0,0:50:27.20,0:50:27.99,*Default,NTP,0,0,0,,是
+Dialogue: 0,0:50:28.83,0:50:30.48,*Default,NTP,0,0,0,,看看怎样了
+Dialogue: 0,0:50:48.81,0:50:49.89,*Default,NTP,0,0,0,,都脱了
+Dialogue: 0,0:51:04.32,0:51:05.17,*Default,NTP,0,0,0,,这个也...
+Dialogue: 0,0:51:06.13,0:51:07.26,*Default,NTP,0,0,0,,全都脱了
+Dialogue: 0,0:51:21.31,0:51:22.45,*Default,NTP,0,0,0,,胸部能感觉到吗?
+Dialogue: 0,0:51:24.78,0:51:25.55,*Default,NTP,0,0,0,,是的
+Dialogue: 0,0:51:41.93,0:51:43.63,*Default,NTP,0,0,0,,乳头硬了哦
+Dialogue: 0,0:51:54.55,0:51:57.35,*Default,NTP,0,0,0,,-舒服吗? -是
+Dialogue: 0,0:52:07.80,0:52:09.15,*Default,NTP,0,0,0,,我来舔舔吧
+Dialogue: 0,0:52:10.77,0:52:11.59,*Default,NTP,0,0,0,,是
+Dialogue: 0,0:53:19.27,0:53:20.79,*Default,NTP,0,0,0,,速度快点
+Dialogue: 0,0:54:28.31,0:54:31.51,*Default,NTP,0,0,0,,你满脑子都是这种事吧?
+Dialogue: 0,0:56:16.99,0:56:18.70,*Default,NTP,0,0,0,,还不能射哦
+Dialogue: 0,0:57:12.12,0:57:13.01,*Default,NTP,0,0,0,,躺下吧
+Dialogue: 0,0:57:14.22,0:57:15.83,*Default,NTP,0,0,0,,感觉怎样?
+Dialogue: 0,0:57:17.67,0:57:19.22,*Default,NTP,0,0,0,,想要更多
+Dialogue: 0,0:57:24.70,0:57:25.64,*Default,NTP,0,0,0,,可以射哦
+Dialogue: 0,0:57:28.01,0:57:31.18,*Default,NTP,0,0,0,,这么舒服 想射就射吧
+Dialogue: 0,0:59:28.25,0:59:29.47,*Default,NTP,0,0,0,,还有很多吧?
+Dialogue: 0,0:59:36.67,0:59:37.63,*Default,NTP,0,0,0,,多射点吧
+Dialogue: 0,1:00:05.01,1:00:06.40,*Default,NTP,0,0,0,,还有是吧?
+Dialogue: 0,1:00:20.05,1:00:21.40,*Default,NTP,0,0,0,,还有吗?
+Dialogue: 0,1:00:24.44,1:00:26.84,*Default,NTP,0,0,0,,射了好多哦
+Dialogue: 0,1:00:28.21,1:00:30.63,*Default,NTP,0,0,0,,下次继续哦
+Dialogue: 0,1:00:38.35,1:00:40.68,*Default,NTP,0,0,0,,真是变态啊
+Dialogue: 0,1:01:07.08,1:01:08.54,*Default,NTP,0,0,0,,-木村先生 -是
+Dialogue: 0,1:01:08.99,1:01:10.54,*Default,NTP,0,0,0,,这么晚了有事吗?
+Dialogue: 0,1:01:11.97,1:01:13.36,*Default,NTP,0,0,0,,我睡不着
+Dialogue: 0,1:01:16.19,1:01:17.11,*Default,NTP,0,0,0,,这样啊
+Dialogue: 0,1:01:20.17,1:01:22.46,*Default,NTP,0,0,0,,谁都有睡不着的时候呢
+Dialogue: 0,1:01:24.19,1:01:26.10,*Default,NTP,0,0,0,,过来这里
+Dialogue: 0,1:01:28.53,1:01:30.19,*Default,NTP,0,0,0,,从那进来
+Dialogue: 0,1:01:33.57,1:01:34.36,*Default,NTP,0,0,0,,过来
+Dialogue: 0,1:01:36.43,1:01:39.00,*Default,NTP,0,0,0,,木村先生
+Dialogue: 0,1:01:39.85,1:01:43.58,*Default,NTP,0,0,0,,我听人说你还是处男吧?
+Dialogue: 0,1:01:45.75,1:01:46.86,*Default,NTP,0,0,0,,为什么说这个?
+Dialogue: 0,1:01:47.55,1:01:51.09,*Default,NTP,0,0,0,,因为我关心你啊
+Dialogue: 0,1:01:51.48,1:01:53.45,*Default,NTP,0,0,0,,现在只有你和我
+Dialogue: 0,1:02:06.06,1:02:07.15,*Default,NTP,0,0,0,,暖吗?
+Dialogue: 0,1:02:10.60,1:02:12.71,*Default,NTP,0,0,0,,手有点冰呢
+Dialogue: 0,1:02:14.70,1:02:17.98,*Default,NTP,0,0,0,,你不想知道女人是怎样的吗?
+Dialogue: 0,1:02:20.06,1:02:20.93,*Default,NTP,0,0,0,,不想
+Dialogue: 0,1:02:22.94,1:02:24.04,*Default,NTP,0,0,0,,为什么?
+Dialogue: 0,1:02:30.21,1:02:31.12,*Default,NTP,0,0,0,,害羞吗?
+Dialogue: 0,1:02:32.76,1:02:33.44,*Default,NTP,0,0,0,,害羞
+Dialogue: 0,1:02:36.32,1:02:38.03,*Default,NTP,0,0,0,,来 坐下吧
+Dialogue: 0,1:02:41.82,1:02:44.17,*Default,NTP,0,0,0,,这样就不害羞了吧
+Dialogue: 0,1:02:49.71,1:02:51.36,*Default,NTP,0,0,0,,好厚实的背啊
+Dialogue: 0,1:02:57.82,1:02:59.54,*Default,NTP,0,0,0,,可以抱一会儿吗?
+Dialogue: 0,1:03:09.90,1:03:10.86,*Default,NTP,0,0,0,,不喜欢吗?
+Dialogue: 0,1:03:14.99,1:03:17.03,*Default,NTP,0,0,0,,但是乳头硬了哦
+Dialogue: 0,1:03:20.79,1:03:21.54,*Default,NTP,0,0,0,,没事
+Dialogue: 0,1:03:22.19,1:03:24.10,*Default,NTP,0,0,0,,现在不会有人来的
+Dialogue: 0,1:03:25.66,1:03:27.86,*Default,NTP,0,0,0,,所以 可以吧?
+Dialogue: 0,1:03:45.34,1:03:45.99,*Default,NTP,0,0,0,,吧脱了哦
+Dialogue: 0,1:03:59.41,1:04:01.19,*Default,NTP,0,0,0,,真结实呢
+Dialogue: 0,1:04:08.31,1:04:09.27,*Default,NTP,0,0,0,,这也脱了吧
+Dialogue: 0,1:04:11.92,1:04:14.33,*Default,NTP,0,0,0,,-害羞吗? -是的
+Dialogue: 0,1:04:16.65,1:04:19.04,*Default,NTP,0,0,0,,没事的 只有我看见
+Dialogue: 0,1:04:43.19,1:04:45.12,*Default,NTP,0,0,0,,木村的鸡巴
+Dialogue: 0,1:04:51.57,1:04:52.73,*Default,NTP,0,0,0,,让我多摸摸吧
+Dialogue: 0,1:05:04.47,1:05:05.47,*Default,NTP,0,0,0,,没事的
+Dialogue: 0,1:05:10.31,1:05:13.14,*Default,NTP,0,0,0,,第一次被女人摸鸡巴吧？
+Dialogue: 0,1:05:19.11,1:05:20.04,*Default,NTP,0,0,0,,我会让你舒服的
+Dialogue: 0,1:05:36.12,1:05:37.48,*Default,NTP,0,0,0,,不舒服吗?
+Dialogue: 0,1:05:58.67,1:05:59.89,*Default,NTP,0,0,0,,摸快点哦
+Dialogue: 0,1:06:19.20,1:06:20.90,*Default,NTP,0,0,0,,这样舒服吧?
+Dialogue: 0,1:06:23.11,1:06:23.56,*Default,NTP,0,0,0,,是的
+Dialogue: 0,1:06:42.49,1:06:43.91,*Default,NTP,0,0,0,,好硬啊
+Dialogue: 0,1:07:11.63,1:07:13.03,*Default,NTP,0,0,0,,看我哦
+Dialogue: 0,1:07:16.42,1:07:18.07,*Default,NTP,0,0,0,,真可爱啊
+Dialogue: 0,1:07:22.36,1:07:23.32,*Default,NTP,0,0,0,,看着我
+Dialogue: 0,1:07:24.38,1:07:25.80,*Default,NTP,0,0,0,,知道我在舔你哪里吗?
+Dialogue: 0,1:07:42.48,1:07:43.12,*Default,NTP,0,0,0,,吻我
+Dialogue: 0,1:08:00.70,1:08:02.97,*Default,NTP,0,0,0,,你的手在摸我呢
+Dialogue: 0,1:08:04.70,1:08:06.14,*Default,NTP,0,0,0,,喜欢吧?
+Dialogue: 0,1:09:01.89,1:09:04.06,*Default,NTP,0,0,0,,看过女人的骚逼吗?
+Dialogue: 0,1:09:06.02,1:09:07.70,*Default,NTP,0,0,0,,-没有 -想看吧?
+Dialogue: 0,1:09:09.24,1:09:09.94,*Default,NTP,0,0,0,,是的
+Dialogue: 0,1:09:12.67,1:09:14.09,*Default,NTP,0,0,0,,头放在上面
+Dialogue: 0,1:09:14.74,1:09:15.50,*Default,NTP,0,0,0,,来看吧
+Dialogue: 0,1:09:19.46,1:09:21.17,*Default,NTP,0,0,0,,我没穿内裤哦
+Dialogue: 0,1:09:33.18,1:09:34.47,*Default,NTP,0,0,0,,想舔骚逼吗？
+Dialogue: 0,1:09:36.92,1:09:37.60,*Default,NTP,0,0,0,,是的
+Dialogue: 0,1:09:49.64,1:09:51.88,*Default,NTP,0,0,0,,来吧
+Dialogue: 0,1:09:56.30,1:09:57.02,*Default,NTP,0,0,0,,想要吗?
+Dialogue: 0,1:09:58.04,1:09:58.58,*Default,NTP,0,0,0,,是的
+Dialogue: 0,1:10:01.38,1:10:02.27,*Default,NTP,0,0,0,,伸出舌头
+Dialogue: 0,1:11:55.97,1:11:57.12,*Default,NTP,0,0,0,,想要我舔你吗?
+Dialogue: 0,1:12:00.61,1:12:01.23,*Default,NTP,0,0,0,,是的
+Dialogue: 0,1:12:05.58,1:12:07.09,*Default,NTP,0,0,0,,舔你很多哦
+Dialogue: 0,1:12:10.65,1:12:11.81,*Default,NTP,0,0,0,,看着哦
+Dialogue: 0,1:12:19.20,1:12:20.31,*Default,NTP,0,0,0,,看到吗?
+Dialogue: 0,1:15:38.67,1:15:39.54,*Default,NTP,0,0,0,,舒服吧?
+Dialogue: 0,1:15:40.84,1:15:41.55,*Default,NTP,0,0,0,,舒服
+Dialogue: 0,1:18:37.52,1:18:38.46,*Default,NTP,0,0,0,,要射了
+Dialogue: 0,1:18:41.07,1:18:42.26,*Default,NTP,0,0,0,,射了啊
+Dialogue: 0,1:19:17.75,1:19:20.29,*Default,NTP,0,0,0,,今天处男毕业了哦
+Dialogue: 0,1:21:33.94,1:21:35.77,*Default,NTP,0,0,0,,我不是来巡视的
+Dialogue: 0,1:21:36.88,1:21:38.62,*Default,NTP,0,0,0,,我想做爱
+Dialogue: 0,1:21:40.75,1:21:41.61,*Default,NTP,0,0,0,,可以吧?
+Dialogue: 0,1:21:44.83,1:21:45.48,*Default,NTP,0,0,0,,但是
+Dialogue: 0,1:21:47.48,1:21:49.83,*Default,NTP,0,0,0,,我行动不便
+Dialogue: 0,1:21:50.71,1:21:51.83,*Default,NTP,0,0,0,,而且
+Dialogue: 0,1:21:52.35,1:21:53.41,*Default,NTP,0,0,0,,还没洗澡
+Dialogue: 0,1:21:54.62,1:21:57.28,*Default,NTP,0,0,0,,不洗澡更好
+Dialogue: 0,1:21:58.35,1:22:00.29,*Default,NTP,0,0,0,,因为...
+Dialogue: 0,1:22:00.67,1:22:02.92,*Default,NTP,0,0,0,,我最喜欢充满男人味的大鸡巴
+Dialogue: 0,1:23:08.12,1:23:09.89,*Default,NTP,0,0,0,,我摸摸
+Dialogue: 0,1:23:14.01,1:23:17.05,*Default,NTP,0,0,0,,-我会想射的 -不行哦
+Dialogue: 0,1:23:19.70,1:23:22.30,*Default,NTP,0,0,0,,我们还有很多要爽的
+Dialogue: 0,1:25:06.86,1:25:07.61,*Default,NTP,0,0,0,,害羞
+Dialogue: 0,1:25:08.78,1:25:10.58,*Default,NTP,0,0,0,,-不行的 -我想舔
+Dialogue: 0,1:25:12.34,1:25:14.63,*Default,NTP,0,0,0,,-这里不行 -我要嘛
+Dialogue: 0,1:25:28.53,1:25:30.15,*Default,NTP,0,0,0,,男人的味道啊
+Dialogue: 0,1:26:39.65,1:26:41.10,*Default,NTP,0,0,0,,我要看大鸡巴
+Dialogue: 0,1:26:51.85,1:26:53.63,*Default,NTP,0,0,0,,来看看哦
+Dialogue: 0,1:27:09.37,1:27:10.28,*Default,NTP,0,0,0,,闻闻
+Dialogue: 0,1:27:17.49,1:27:18.39,*Default,NTP,0,0,0,,好香
+Dialogue: 0,1:27:22.95,1:27:24.84,*Default,NTP,0,0,0,,鸡巴
+Dialogue: 0,1:27:35.97,1:27:36.96,*Default,NTP,0,0,0,,看看包皮
+Dialogue: 0,1:27:41.90,1:27:43.39,*Default,NTP,0,0,0,,你看这样子哦
+Dialogue: 0,1:27:52.03,1:27:54.50,*Default,NTP,0,0,0,,不知道能扯到哪里呢?
+Dialogue: 0,1:28:01.59,1:28:02.43,*Default,NTP,0,0,0,,好厉害
+Dialogue: 0,1:28:03.16,1:28:04.20,*Default,NTP,0,0,0,,这么厉害
+Dialogue: 0,1:28:09.62,1:28:10.63,*Default,NTP,0,0,0,,这么长啊
+Dialogue: 0,1:28:11.26,1:28:13.01,*Default,NTP,0,0,0,,口水可以吐出来吗?
+Dialogue: 0,1:28:41.58,1:28:43.81,*Default,NTP,0,0,0,,都装在里面了呢
+Dialogue: 0,1:28:45.00,1:28:46.46,*Default,NTP,0,0,0,,可以吸吗?
+Dialogue: 0,1:28:49.26,1:28:50.38,*Default,NTP,0,0,0,,真香
+Dialogue: 0,1:29:48.81,1:29:50.93,*Default,NTP,0,0,0,,好友男人味哦
+Dialogue: 0,1:30:06.08,1:30:06.97,*Default,NTP,0,0,0,,忍不住了
+Dialogue: 0,1:30:12.86,1:30:14.27,*Default,NTP,0,0,0,,我可以舔吗?
+Dialogue: 0,1:31:11.22,1:31:12.64,*Default,NTP,0,0,0,,-舒服吗? -舒服
+Dialogue: 0,1:31:20.67,1:31:22.71,*Default,NTP,0,0,0,,转圈吧
+Dialogue: 0,1:31:25.57,1:31:26.74,*Default,NTP,0,0,0,,这鸡巴真敏感
+Dialogue: 0,1:31:27.16,1:31:29.99,*Default,NTP,0,0,0,,我好喜欢啊
+Dialogue: 0,1:32:55.06,1:32:55.94,*Default,NTP,0,0,0,,不行啦
+Dialogue: 0,1:32:59.49,1:33:01.68,*Default,NTP,0,0,0,,要射了啊
+Dialogue: 0,1:33:05.16,1:33:05.83,*Default,NTP,0,0,0,,不行哦
+Dialogue: 0,1:33:09.76,1:33:10.41,*Default,NTP,0,0,0,,不行?
+Dialogue: 0,1:33:18.59,1:33:20.18,*Default,NTP,0,0,0,,让我舒服吧
+Dialogue: 0,1:33:32.89,1:33:33.88,*Default,NTP,0,0,0,,舔舔乳头
+Dialogue: 0,1:36:19.86,1:36:20.76,*Default,NTP,0,0,0,,手指进去了哦
+Dialogue: 0,1:36:29.95,1:36:30.33,*Default,NTP,0,0,0,,可以哦
+Dialogue: 0,1:36:32.05,1:36:33.56,*Default,NTP,0,0,0,,给我很多吧
+Dialogue: 0,1:41:30.38,1:41:31.34,*Default,NTP,0,0,0,,进去了哦
+Dialogue: 0,1:42:29.04,1:42:29.63,*Default,NTP,0,0,0,,好舒服
+Dialogue: 0,1:43:09.77,1:43:10.89,*Default,NTP,0,0,0,,好舒服哦
+Dialogue: 0,1:50:20.36,1:50:22.55,*Default,NTP,0,0,0,,舒服吧?
+Dialogue: 0,1:55:24.61,1:55:25.69,*Default,NTP,0,0,0,,舒服
+Dialogue: 0,1:55:26.47,1:55:27.80,*Default,NTP,0,0,0,,给我鸡巴
+Dialogue: 0,1:55:30.08,1:55:32.05,*Default,NTP,0,0,0,,要高潮了
+Dialogue: 0,1:55:44.35,1:55:45.72,*Default,NTP,0,0,0,,真舒服
+Dialogue: 0,1:56:04.81,1:56:05.97,*Default,NTP,0,0,0,,舒服
+Dialogue: 0,1:56:09.44,1:56:10.87,*Default,NTP,0,0,0,,要射了
+Dialogue: 0,1:56:19.38,1:56:22.08,*Default,NTP,0,0,0,,-要喷了 -射了啊
+Dialogue: 0,1:57:17.41,1:57:19.13,*Default,NTP,0,0,0,,好舒服

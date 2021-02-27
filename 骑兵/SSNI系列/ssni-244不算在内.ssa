@@ -1,0 +1,102 @@
+﻿[Script Info]
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Arial,20,&Hffffff,&H00ffff,&H000008,&H000008,0,0,1,2.00,1.00,2,10,10,10,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:46.29,0:00:49.89,Default,NTP,0000,0000,0000,,在发出声音会暴露的情况\N耻辱无声强奸
+Dialogue: Marked=0,0:00:49.89,0:00:52.90,Default,NTP,0000,0000,0000,,SSNI-244
+Dialogue: Marked=0,0:00:52.92,0:01:00.92,Default,NTP,0000,0000,0000,,{\c&H0000ff&}无痕灬泪制作 Q392602518
+Dialogue: Marked=0,0:02:02.57,0:02:06.17,Default,NTP,0000,0000,0000,,有人摸我屁股？
+Dialogue: Marked=0,0:02:06.17,0:02:10.97,Default,NTP,0000,0000,0000,,是错觉吧
+Dialogue: Marked=0,0:03:46.17,0:03:49.17,Default,NTP,0000,0000,0000,,这是咸猪手吗
+Dialogue: Marked=0,0:03:51.88,0:03:58.78,Default,NTP,0000,0000,0000,,好可怕谁来救救我
+Dialogue: Marked=0,0:03:59.08,0:04:03.89,Default,NTP,0000,0000,0000,,但是 但是
+Dialogue: Marked=0,0:04:53.44,0:04:56.14,Default,NTP,0000,0000,0000,,这种事太害羞了
+Dialogue: Marked=0,0:04:56.44,0:04:58.84,Default,NTP,0000,0000,0000,,太害羞
+Dialogue: Marked=0,0:04:58.84,0:05:01.85,Default,NTP,0000,0000,0000,,不敢说话了
+Dialogue: Marked=0,0:17:44.61,0:17:49.11,Default,NTP,0000,0000,0000,,不可以这样的
+Dialogue: Marked=0,0:17:49.11,0:17:52.12,Default,NTP,0000,0000,0000,,不行不行要出来了
+Dialogue: Marked=0,0:17:56.32,0:18:02.93,Default,NTP,0000,0000,0000,,不行真的不行不行不行
+Dialogue: Marked=0,0:18:03.23,0:18:05.03,Default,NTP,0000,0000,0000,,受不了了
+Dialogue: Marked=0,0:20:09.65,0:20:14.16,Default,NTP,0000,0000,0000,,不穿内裤的话不舒服
+Dialogue: Marked=0,0:20:43.59,0:20:48.09,Default,NTP,0000,0000,0000,,我的笔记本呢
+Dialogue: Marked=0,0:20:57.10,0:21:01.00,Default,NTP,0000,0000,0000,,不显示号码的电话是谁呢
+Dialogue: Marked=0,0:21:06.11,0:21:10.61,Default,NTP,0000,0000,0000,,喂 是谁
+Dialogue: Marked=0,0:21:26.23,0:21:27.73,Default,NTP,0000,0000,0000,,来了啊
+Dialogue: Marked=0,0:21:31.03,0:21:34.64,Default,NTP,0000,0000,0000,,还记得上次吗
+Dialogue: Marked=0,0:21:39.44,0:21:44.55,Default,NTP,0000,0000,0000,,不想被暴露吧
+Dialogue: Marked=0,0:21:49.65,0:21:52.66,Default,NTP,0000,0000,0000,,那么
+Dialogue: Marked=0,0:21:53.86,0:22:03.77,Default,NTP,0000,0000,0000,,接下来可以听我的话吗
+Dialogue: Marked=0,0:22:03.77,0:22:08.87,Default,NTP,0000,0000,0000,,对 真是好孩子
+Dialogue: Marked=0,0:22:09.17,0:22:11.88,Default,NTP,0000,0000,0000,,走吧
+Dialogue: Marked=0,0:31:10.01,0:31:12.42,Default,NTP,0000,0000,0000,,拿去换
+Dialogue: Marked=0,0:44:33.92,0:44:43.23,Default,NTP,0000,0000,0000,,不行不行高潮了高潮了
+Dialogue: Marked=0,0:50:41.79,0:50:44.49,Default,NTP,0000,0000,0000,,张嘴
+Dialogue: Marked=0,0:52:16.68,0:52:20.88,Default,NTP,0000,0000,0000,,打开12页
+Dialogue: Marked=0,0:52:21.19,0:52:23.59,Default,NTP,0000,0000,0000,,看看这个题目
+Dialogue: Marked=0,0:52:25.39,0:52:26.89,Default,NTP,0000,0000,0000,,小岛
+Dialogue: Marked=0,0:52:27.79,0:52:28.99,Default,NTP,0000,0000,0000,,小岛
+Dialogue: Marked=0,0:52:30.19,0:52:31.09,Default,NTP,0000,0000,0000,,你怎么了
+Dialogue: Marked=0,0:52:32.60,0:52:35.00,Default,NTP,0000,0000,0000,,等会来办公室
+Dialogue: Marked=0,0:52:36.20,0:52:37.40,Default,NTP,0000,0000,0000,,对不起
+Dialogue: Marked=0,0:52:39.20,0:52:41.31,Default,NTP,0000,0000,0000,,继续上课了哦
+Dialogue: Marked=0,0:52:41.31,0:52:45.21,Default,NTP,0000,0000,0000,,打开下一页吧
+Dialogue: Marked=0,0:52:48.21,0:52:52.72,Default,NTP,0000,0000,0000,,我来读下面的文章
+Dialogue: Marked=0,0:52:53.92,0:52:58.42,Default,NTP,0000,0000,0000,,原稿的文章
+Dialogue: Marked=0,0:53:03.23,0:53:04.43,Default,NTP,0000,0000,0000,,小岛
+Dialogue: Marked=0,0:53:04.73,0:53:08.93,Default,NTP,0000,0000,0000,,你在做这种事情吗
+Dialogue: Marked=0,0:53:11.64,0:53:12.84,Default,NTP,0000,0000,0000,,不是的
+Dialogue: Marked=0,0:53:13.74,0:53:14.94,Default,NTP,0000,0000,0000,,什么不是的
+Dialogue: Marked=0,0:53:15.84,0:53:18.54,Default,NTP,0000,0000,0000,,就是这样吧
+Dialogue: Marked=0,0:53:18.84,0:53:21.85,Default,NTP,0000,0000,0000,,仔细看看吧
+Dialogue: Marked=0,0:53:25.75,0:53:28.45,Default,NTP,0000,0000,0000,,不要避开 看看吧
+Dialogue: Marked=0,0:53:40.76,0:53:43.17,Default,NTP,0000,0000,0000,,经常这样做吗
+Dialogue: Marked=0,0:53:46.77,0:53:48.87,Default,NTP,0000,0000,0000,,不是的
+Dialogue: Marked=0,0:53:49.47,0:53:51.58,Default,NTP,0000,0000,0000,,那为什么有照片
+Dialogue: Marked=0,0:53:56.98,0:53:58.48,Default,NTP,0000,0000,0000,,不能回答吗
+Dialogue: Marked=0,0:54:04.19,0:54:06.59,Default,NTP,0000,0000,0000,,怎么了
+Dialogue: Marked=0,0:54:07.79,0:54:14.70,Default,NTP,0000,0000,0000,,小岛总算在别人面前这样吗
+Dialogue: Marked=0,0:54:28.21,0:54:30.91,Default,NTP,0000,0000,0000,,发出声音会暴露的
+Dialogue: Marked=0,0:54:33.62,0:54:36.02,Default,NTP,0000,0000,0000,,大家都走了
+Dialogue: Marked=0,0:54:37.82,0:54:41.43,Default,NTP,0000,0000,0000,,可能会有人拍的你注意点
+Dialogue: Marked=0,0:54:48.63,0:54:53.14,Default,NTP,0000,0000,0000,,小岛 看这里
+Dialogue: Marked=0,0:54:53.14,0:54:59.14,Default,NTP,0000,0000,0000,,为什么这么害怕
+Dialogue: Marked=0,0:55:01.25,0:55:05.75,Default,NTP,0000,0000,0000,,害怕吗 你做那种事
+Dialogue: Marked=0,0:55:05.75,0:55:09.05,Default,NTP,0000,0000,0000,,会害怕吗
+Dialogue: Marked=0,0:55:21.06,0:55:23.77,Default,NTP,0000,0000,0000,,没上班看看我
+Dialogue: Marked=0,0:55:24.07,0:55:27.37,Default,NTP,0000,0000,0000,,别发出声音
+Dialogue: Marked=0,0:55:31.88,0:55:35.48,Default,NTP,0000,0000,0000,,脸抬起来抬起来
+Dialogue: Marked=0,0:55:37.88,0:55:39.68,Default,NTP,0000,0000,0000,,让老师看看
+Dialogue: Marked=0,0:55:50.49,0:55:55.00,Default,NTP,0000,0000,0000,,讨厌吗
+Dialogue: Marked=0,0:55:55.00,0:55:58.90,Default,NTP,0000,0000,0000,,是不是讨厌
+Dialogue: Marked=0,0:56:08.81,0:56:11.82,Default,NTP,0000,0000,0000,,小心点
+Dialogue: Marked=0,0:56:11.82,0:56:13.62,Default,NTP,0000,0000,0000,,别发声
+Dialogue: Marked=0,0:56:59.86,0:57:03.17,Default,NTP,0000,0000,0000,,奶子很不错
+Dialogue: Marked=0,0:57:16.98,0:57:19.98,Default,NTP,0000,0000,0000,,看那边
+Dialogue: Marked=0,0:57:20.28,0:57:28.39,Default,NTP,0000,0000,0000,,看着走廊吧 不要发出声音
+Dialogue: Marked=0,0:57:28.39,0:57:30.19,Default,NTP,0000,0000,0000,,会暴露的
+Dialogue: Marked=0,0:57:38.30,0:57:41.31,Default,NTP,0000,0000,0000,,忍住别发声
+Dialogue: Marked=0,0:57:41.31,0:57:44.31,Default,NTP,0000,0000,0000,,真的会暴露的
+Dialogue: Marked=0,0:57:59.32,0:58:04.43,Default,NTP,0000,0000,0000,,没事的小声点哦
+Dialogue: Marked=0,0:58:04.43,0:58:08.93,Default,NTP,0000,0000,0000,,外面还有很多人呢
+Dialogue: Marked=0,0:58:12.24,0:58:16.44,Default,NTP,0000,0000,0000,,你想被暴露吗想吗
+Dialogue: Marked=0,0:58:56.98,0:58:59.98,Default,NTP,0000,0000,0000,,过来这边
+Dialogue: Marked=0,0:59:12.90,0:59:20.10,Default,NTP,0000,0000,0000,,小声点会暴露的哦
+Dialogue: Marked=0,0:59:42.93,0:59:44.73,Default,NTP,0000,0000,0000,,舔舔
+Dialogue: Marked=0,0:59:48.93,0:59:51.34,Default,NTP,0000,0000,0000,,好吃吗
+Dialogue: Marked=0,1:03:25.45,1:03:27.25,Default,NTP,0000,0000,0000,,看到了呢
+Dialogue: Marked=0,1:03:36.26,1:03:38.96,Default,NTP,0000,0000,0000,,看到了吧 看到了吧
+Dialogue: Marked=0,1:07:00.16,1:07:02.87,Default,NTP,0000,0000,0000,,听到了哦
+Dialogue: Marked=0,1:07:05.27,1:07:12.48,Default,NTP,0000,0000,0000,,会暴露的呢
+Dialogue: Marked=0,1:07:25.99,1:07:29.29,Default,NTP,0000,0000,0000,,看这边
+Dialogue: Marked=0,1:11:03.11,1:11:05.81,Default,NTP,0000,0000,0000,,会暴露的
+Dialogue: Marked=0,1:14:57.04,1:14:59.74,Default,NTP,0000,0000,0000,,站起来
+Dialogue: Marked=0,1:48:44.67,1:48:46.77,Default,NTP,0000,0000,0000,,不行

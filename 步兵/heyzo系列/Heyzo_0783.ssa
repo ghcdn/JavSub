@@ -1,0 +1,29 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Arial,15,&HFFFFFF,&H00FFFF,&H000000,&H000000,-1,0,1,2,3,2,20,20,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:08:00.00,0:09:00.83,Default,NTP,0000,0000,0000,!Effect,{\alpha&HA7&\1a&H9E&\2a&H9E&\3a&HA7&\4a&H91&\3c&HFF8000&}怪盗DX爱下电影论坛 www.aixiady.com\N怪盗DX爱下AV电影资源 guidaody.howbbs.com
+Dialogue: Marked=0,0:29:00.00,0:30:00.83,Default,NTP,0000,0000,0000,!Effect,{\alpha&HA7&\1a&H9E&\2a&H9E&\3a&HA7&\4a&H91&\3c&HFF8000&}怪盗DX爱下电影论坛 www.aixiady.com\N怪盗DX爱下AV电影资源 guidaody.howbbs.com
+Dialogue: Marked=0,1:01:00.80,1:02:50.00,Default,NTP,0000,0000,0000,!Effect,{\alpha&HA7&\1a&H9E&\2a&H9E&\3a&HA7&\4a&H91&\3c&HFF8000&}更多精彩搜索怪盗DX新浪博客              http://blog.sina.com.cn/u/5115239361

@@ -1,0 +1,14 @@
+[Script Info]
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, Borderstyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: mine,方正舒体,24,&Hdcdc23,&Hdd9ce2,&Hffffff,&Hffffff,0,0,1,2,1,2,20,20,20,0,134
+Style: Default,华文新魏,25,&H003300,&H0424d9,&Hffffff,&Hffffff,0,0,1,2,1,2,20,20,20,0,134
+
+Dialogue: Dialogue: Marked=0,0:00:00.00,1:55:00.00,Default,,0000,0000,0000,,{\pos(290,260)}{\fad(1000,100)}{\fe138\fn方正舒体\fs15}{\c&Hffffff&}{\shad2}{\3a&H255&}{\4c&Hd67c47&}{\3c&Hd67c47&}{\bord4}蓝飘虫  作品
+Dialogue: Marked=0,0:00:00.00,1:55:00.00,Default,,0000,0000,0000,,{\pos(290,280)}{\fad(1000,100)}{\fe138\fn方正舒体\fs15}{\c&Hffffff&}{\shad2}{\3a&H255&}{\4c&Hd67c47&}{\3c&Hd67c47&}{\bord4}www.sexinsexin.net

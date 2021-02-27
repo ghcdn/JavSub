@@ -1,0 +1,55 @@
+[Script Info]
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, Borderstyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: mine,方正舒体,24,&Hdcdc23,&Hdd9ce2,&Hffffff,&Hffffff,0,0,1,2,1,2,20,20,20,0,134
+Style: Default,华文新魏,25,&H003300,&H0424d9,&Hffffff,&Hffffff,0,0,1,2,1,2,20,20,20,0,134
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:11.55,0:07:05.90,Default,,0000,0000,0200,Banner;50;00;100,{\pos(380,20)}{\fad(100,5000)}{\fe138\fn长城勘亭流繁\fs15}{\shad2}{\3a&H255&}{\4c&H45070c&}郑重声明:本作品之片源、字幕均来自互联网，版权归电影公司所有。任何组织和个人不得公开传播或用于任何商业盈利用途，否则一切后果由该组织或个人承担！本站和制作者不承担任何法律及连带责任！请自觉于下载后24小时内删除。如果喜欢本片，请购买正版!\h\h\h\h{\c&Hffffff&}{\shad0}{\3a&H255&}{\3c&Hd67c47&}{\bord4}狂肏美眉娛樂網o.m6co.net欢迎您!\h\h\h\h\h\h\h
+
+
+
+
+Dialogue: Marked=0,0:01:00.00,0:01:02.00,Default,,0000,0000,0000,,{\move(118,10,118,30[,100,6000])}{\fad(4000,100)}{\fe138\fn长城勘亭流繁\fs20}{\c&H45070c&}{\shad2}{\3a&H255&}{\4c&H45070c&}13K美屄巨屌fenghuabuluo压制
+
+Dialogue: Marked=0,0:05:05.00,0:06:06.00,Default,,0000,0000,0000,,{\move(118,10,118,30[,100,6000])}{\fad(4000,100)}{\fe138\fn长城勘亭流繁\fs20}{\c&H45070c&}{\shad2}{\3a&H255&}{\4c&H45070c&}13K美屄巨屌fenghuabuluo压制
+
+Dialogue: Marked=0,0:10:10.00,0:15:15.00,Default,,0000,0000,0000,,{\move(118,10,118,30[,100,6000])}{\fad(4000,100)}{\fe138\fn长城勘亭流繁\fs20}{\c&H45070c&}{\shad2}{\3a&H255&}{\4c&H45070c&}13K美屄巨屌fenghuabuluo压制
+
+Dialogue: Marked=0,0:25:25.00,0:35:18.00,Default,,0000,0000,0000,,{\move(118,10,118,30[,100,6000])}{\fad(4000,100)}{\fe138\fn长城勘亭流繁\fs20}{\c&H45070c&}{\shad2}{\3a&H255&}{\4c&H45070c&}13K狼群分舵fenghuabuluo压制
+
+Dialogue: Marked=0,0:45:05.00,01:01:18.00,Default,,0000,0000,0000,,{\move(118,10,118,30[,100,6000])}{\fad(4000,100)}{\fe138\fn长城勘亭流繁\fs20}{\c&H45070c&}{\shad2}{\3a&H255&}{\4c&H45070c&}13K狼群分舵fenghuabuluo压制
+
+
+Dialogue: Dialogue: Marked=0,0:00:00.00,1:55:00.00,Default,,0000,0000,0000,,{\pos(290,260)}{\fad(1000,100)}{\fe138\fn长城勘亭流繁\fs14}{\c&Hffffff&}{\shad2}{\3a&H255&}{\4c&Hd67c47&}{\3c&Hd67c47&}{\bord4}13K狼群分舵出品
+Dialogue: Marked=0,0:00:00.00,1:55:00.00,Default,,0000,0000,0000,,{\pos(290,280)}{\fad(1000,100)}{\fe138\fn长城勘亭流繁\fs14}{\c&Hffffff&}{\shad2}{\3a&H255&}{\4c&Hd67c47&}{\3c&Hd67c47&}{\bord4}o.m6co.com情色美眉娛樂網
+
+Dialogue: Marked=0,0:00:00.01,01:04:00.00,Default,,0000,0000,0000,,{\pos(58,280)}{\fad(1000,100)}{\fe132\fn文鼎花瓣体\fs20}{\shad0}{\3a&H255&}{\4c&Hd67c47&}{\3c&Hd67c47&}{\bord4}{\c&Hffffff&}{\fsp-4}{\c&H24c6f4&}制
+Dialogue: Marked=0,0:00:00.01,01:04:00.00,Default,,0000,0000,0000,,{\pos(101,280)}{\fe138\fn长城勘亭流繁\fs20}{\fad(1000,100)}{\shad0}{\3a&H255&}{\4c&Hd67c47&}{\3c&Hd67c47&}{\bord6}{\c&H91f0a4&}●
+Dialogue: Marked=0,0:00:00.01,01:04:00.00,Default,,0000,0000,0000,,{\pos(96,278)}{\fe138\fn创艺繁琥珀\fs17}{\fad(1000,100)}{\shad0}{\3a&H255&}{\4c&Hd67c47&}{\3c&Hd67c47&}{\frz-35}{\bord0}{\c&H800040&}作
+Dialogue:Marked=0,0:00:02.50,0:00:03.00,Default,,0000,0000,0000,,{\fe138\fn长城勘亭流繁\fs28}{\pos(80,255)}{\fs60}{\t(18,300,\fs28)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}{\c&Hffffff&}情色美眉娱乐网
+
+Dialogue: Marked=0,0:00:00.01,01:00:04.00,Default,,0000,0000,0000,,{\pos(80,255)}{\fe138\fn长城勘亭流繁\fs22}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}{\c&Hffffff&}情色美眉娱乐网
+
+
+Dialogue: Marked=0,0:00:04.00,0:00:04.40,Default,,0000,0000,0000,,{\c&Hffffff&}{\t(18,100,\c&H80FF00&\t(118,200,\c&H808000&\t(218,300,\c&H146365&\t(318,400,\c&H83E4E7&))))}{\fe138\fn长城勘亭流繁\fs22}{\pos(80,255)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}情色美眉娱乐网
+Dialogue: Marked=0,0:00:04.40,0:00:04.70,Default,,0000,0000,0000,,{\c&Hffffff&}{\t(18,100,\c&H80FF00&\t(118,200,\c&H808000&\t(218,300,\c&H146365&\t(318,400,\c&H83E4E7&))))}{\fe138\fn长城勘亭流繁\fs22}{\pos(80,255)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}情色美眉娱乐网
+Dialogue: Marked=0,0:00:04.70,0:00:05.00,Default,,0000,0000,0000,,{\c&Hffffff&}{\t(18,100,\c&H80FF00&\t(118,200,\c&H808000&\t(218,300,\c&H146365&\t(318,400,\c&H83E4E7&))))}{\fe138\fn长城勘亭流繁\fs22}{\pos(80,255)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}情色美眉娱乐网
+Dialogue: Marked=0,0:00:05.00,0:00:05.30,Default,,0000,0000,0000,,{\c&Hffffff&}{\t(18,100,\c&H80FF00&\t(118,200,\c&H808000&\t(218,300,\c&H146365&\t(318,400,\c&H83E4E7&))))}{\fe138\fn长城勘亭流繁\fs22}{\pos(80,255)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}情色美眉娱乐网
+Dialogue: Marked=0,0:00:05.30,0:00:05.60,Default,,0000,0000,0000,,{\c&Hffffff&}{\t(18,100,\c&H80FF00&\t(118,200,\c&H808000&\t(218,300,\c&H146365&\t(318,400,\c&H83E4E7&))))}{\fe138\fn长城勘亭流繁\fs22}{\pos(80,255)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}情色美眉娱乐网
+Dialogue: Marked=0,0:00:05.60,0:00:05.90,Default,,0000,0000,0000,,{\c&Hffffff&}{\t(18,100,\c&H80FF00&\t(118,200,\c&H808000&\t(218,300,\c&H146365&\t(318,400,\c&H83E4E7&))))}{\fe138\fn长城勘亭流繁\fs22}{\pos(80,255)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}情色美眉娱乐网
+Dialogue: Marked=0,0:00:05.90,0:00:06.20,Default,,0000,0000,0000,,{\c&Hffffff&}{\t(18,100,\c&H80FF00&\t(118,200,\c&H808000&\t(218,300,\c&H146365&\t(318,400,\c&H83E4E7&))))}{\fe138\fn长城勘亭流繁\fs22}{\pos(80,255)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}情色美眉娱乐网
+Dialogue: Marked=0,0:00:06.20,0:00:06.50,Default,,0000,0000,0000,,{\c&Hffffff&}{\t(18,100,\c&H80FF00&\t(118,200,\c&H808000&\t(218,300,\c&H146365&\t(318,400,\c&H83E4E7&))))}{\fe138\fn长城勘亭流繁\fs22}{\pos(80,255)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}情色美眉娱乐网
+Dialogue: Marked=0,0:00:06.50,0:00:06.80,Default,,0000,0000,0000,,{\c&Hffffff&}{\t(18,100,\c&H80FF00&\t(118,200,\c&H808000&\t(218,300,\c&H146365&\t(318,400,\c&H83E4E7&))))}{\fe138\fn长城勘亭流繁\fs22}{\pos(80,255)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}情色美眉娱乐网
+Dialogue: Marked=0,0:00:06.80,0:00:07.10,Default,,0000,0000,0000,,{\c&Hffffff&}{\t(18,100,\c&H80FF00&\t(118,200,\c&H808000&\t(218,300,\c&H146365&\t(318,400,\c&H83E4E7&))))}{\fe138\fn长城勘亭流繁\fs28}{\pos(80,255)}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}情色美眉娱乐网
+
+Dialogue: Marked=0,0:00:07.10,0:00:08.10,Default,,0000,0000,0000,,{\pos(80,255)}{\fe138\fn长城勘亭流繁\fs22}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}{\c&Hffffff&}{\t(\fry720)}情色美眉娱乐网
+
+Dialogue: Marked=0,0:00:08.10,0:54:01.00,Default,,0000,0000,0000,,{\pos(80,255)}{\fe138\fn长城勘亭流繁\fs22}{\shad2}{\3a&H255&}{\4c&H9fa4fb&}{\3c&H9fa4fb&}{\bord4}{\c&Hffffff&}情色美眉娱乐网
